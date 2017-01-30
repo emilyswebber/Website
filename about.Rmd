@@ -1,9 +1,9 @@
 
 ---
-title: "Real Life Data"
+title: ""
 ---
 
-##This website is about data!  
+#This website is about data!  
 
 I am a scientist, and I love data.  There is a lot of publicly available data out there on the web, but we aren't using it well.  I want to try and change that.   
 
@@ -11,7 +11,7 @@ Because I want this page to be just about the data, I will refrain from imposing
 
  
 
-##There are 3 goals of this website: 
+#There are 3 goals of this website: 
 
 1.  Have fun with data.
 
