@@ -3,3 +3,9 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+/* Whole document: */
+body{
+  font-family: Arial;
+  font-size: 12pt;
+}

@@ -2,22 +2,25 @@
 ---
 title: ""
 ---
-
-
+&nbsp;
+&nbsp;
 
 
 ##Crime incidents in Portland, Oregon during 2014
 
-#[View Report](https://reallifedata.github.io/Portland_Crime_2014/)
+[View Report](https://reallifedata.github.io/Portland_Crime_2014/)
 
 
 [![](C:\\Users\\owner\\Desktop\\Website\\Crime.png)](https://reallifedata.github.io/Portland_Crime_2014/) 
 
+&nbsp;
 
 The data presented in this document is public data and can be found [here](http://www.civicapps.org/datasets/crime-incidents-2014)
 
 This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and Rape.
 
+&nbsp;
+&nbsp;
 
 ##Where are all of the single people?
 
