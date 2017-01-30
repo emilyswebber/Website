@@ -1,0 +1,10 @@
+name: "Real Life Data"
+output_dir: "."
+navbar:
+  title: "RLD"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+
