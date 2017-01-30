@@ -9,10 +9,3 @@ title: "Real Life Data"
 &nbsp;
 &nbsp;
 
-Real data, collected from real sources. 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-[See for yourself](https://reallifedata.github.io/Website/data.html) 
