@@ -1,6 +1,6 @@
 
 ---
-title: "Data"
+title: ""
 ---
 
 
@@ -8,10 +8,10 @@ title: "Data"
 
 ##Crime incidents in Portland, Oregon during 2014
 
-#[View Report](https:www.//reallifedata.github.io/Portland_Crime_2014)
+#[View Report](https://reallifedata.github.io/Portland_Crime_2014/)
 
 
-[![](C:\\Users\\owner\\Desktop\\Website\\Crime.png)](https:www.//reallifedata.github.io/Portland_Crime_2014) 
+[![](C:\\Users\\owner\\Desktop\\Website\\Crime.png)](https://reallifedata.github.io/Portland_Crime_2014/) 
 
 
 The data presented in this document is public data and can be found [here](http://www.civicapps.org/datasets/crime-incidents-2014)
