@@ -23,8 +23,14 @@ This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and 
 &nbsp;
 
 ##Where are all of the single people?
+[View Report](https://reallifedata.github.io/Single_People/)
 
-A friend of mine recently asked me what seemed like a fairly simple question: where are all of the single men?  I was working with census data for my work, so I decided to look into it. 
+[![](C:\\Users\\owner\\Desktop\\Website\\Single.png)](https://reallifedata.github.io/Portland_Crime_2014/) 
+
+
+&nbsp;
+
+A friend of mine recently asked me what seemed like a fairly simple question: where are all of the single men?  I was working with census data for my work, so I decided to look into it and share the results! 
 
 This document displays data taken from publicly available 2014 census records. Here is a link to get started with Census data [here](https://www.factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml).
 
