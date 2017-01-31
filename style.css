@@ -4,6 +4,12 @@ img {
   margin: 0 auto;
 }
 
+img {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
 /* Whole document: */
 body{
   font-family: Arial;
