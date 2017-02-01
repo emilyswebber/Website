@@ -1,5 +1,5 @@
 ---
-title: "Real Life Data"
+title: ""
 ---
 
 &nbsp;
@@ -15,4 +15,4 @@ title: "Real Life Data"
 &nbsp;
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\GR.png)](https://reallifedata.github.io/Website/data.html)
+[![](C:\\Users\\owner\\Desktop\\Website\\LOGO1.png)](https://reallifedata.github.io/Website/data.html)

@@ -25,5 +25,5 @@ We are in the information age, and with all this data flying around it is hard t
 
 
 
-All of the data, R code and other information presented on this site can be found on my github site: https://github.com/RealLifeData
+All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData). 
  
