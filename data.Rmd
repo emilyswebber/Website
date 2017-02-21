@@ -14,6 +14,7 @@ title: ""
 
 [![](C:\\Users\\owner\\Desktop\\Website\\Population.png)](https://reallifedata.github.io/PopulationData/) 
 
+&nbsp;
 
 There has been a lot of talk of immigration and the job recently, so I thought I'd take a quick look to see what the data says about this. 
 
