@@ -11,7 +11,7 @@ title: ""
 2.20.2017
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\Population.jpg)](https://reallifedata.github.io/PopulationData/index.html) 
+[![](C:\\Users\\owner\\Desktop\\Website\\Population.png)](https://reallifedata.github.io/PopulationData/) 
 
 
 There has been a lot of talk of immigration and the job recently, so I thought I'd take a quick look to see what the data says about this. 
