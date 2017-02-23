@@ -5,6 +5,22 @@ title: ""
 &nbsp;
 &nbsp;
 
+
+##Scott Pruitt's Emails!
+
+[Show Me the Data!](https://reallifedata.github.io/PruittEmails/index.html)
+&nbsp;
+2.22.2017
+&nbsp;
+
+[![](C:\\Users\\owner\\Desktop\\Website\\email.PNG)](https://reallifedata.github.io/PruittEmails/) 
+
+&nbsp;
+
+Scott Pruitt's e-mails were recently released.  I went ahead and did some very basic text analytics on the data.  Enjoy! (or don't, it's really up to you)
+
+Data:  The PDF originals were too large to put onto GitHub, so if you want those files you must download them yourself from [here](http://www.exposedbycmd.org/Scott-Pruitt-Missing-Emails).  The R code can be found on my [GitHub site](https://github.com/RealLifeData).  
+
 ##They took our jobs!
 
 [Show Me the Data!](https://reallifedata.github.io/PopulationData/index.html)
