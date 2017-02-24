@@ -15,7 +15,7 @@ title: ""
 2.22.2017
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\email.PNG)](https://reallifedata.github.io/PruittEmails/) 
+[![](C:\\Users\\owner\\Desktop\\Website\\email2.PNG)](https://reallifedata.github.io/PruittEmails/) 
 
 &nbsp;
 
@@ -25,7 +25,7 @@ Enjoy!
 
 Data:  The PDF originals were too large to put onto GitHub, so if you want those files you must download them yourself from [here](http://www.exposedbycmd.org/Scott-Pruitt-Missing-Emails).  The R code can be found on my [GitHub site](https://github.com/RealLifeData).  
 
-##Did they took der jobs?!
+##Did they took our jobs?
 
 [Show Me the Data!](https://reallifedata.github.io/PopulationData/index.html)
 &nbsp;
