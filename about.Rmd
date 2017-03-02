@@ -23,7 +23,7 @@ Because I want this page to be just about the data, I will refrain from revealin
 
 We are in the information age, and with all this data flying around it is hard to know what is real, what is an outright lie, and what is just a well informed opinion. 
 
-
+[Like this on Facebook!](https://www.facebook.com/RLData/)
 
 All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData). 
  
