@@ -11,6 +11,7 @@ title: ""
 &nbsp;
 5.25.2017
 &nbsp;
+
 [![](C:\\Users\\owner\\Desktop\\MMA\\image.PNG)
 
 An analaysis of UFC data from 1998-2016. 
