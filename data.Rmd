@@ -12,9 +12,9 @@ title: ""
 5.25.2017
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\MMA\\image.PNG)
+[![](C:\\Users\\owner\\Desktop\\Website\\image.PNG)
 
-An analaysis of UFC data from 1998-2016. 
+An analaysis of UFC data from 1993-2016. 
 
 Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/). All R code for this and other projects can be found on my [GitHub](https://github.com/RealLifeData) site. 
 
