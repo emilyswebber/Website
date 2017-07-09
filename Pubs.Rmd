@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
----
+
 ###Peer-Reviewed Journal Articles
 
 **Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. Eneuro,  3(5), 1-21.
