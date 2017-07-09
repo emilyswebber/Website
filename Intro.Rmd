@@ -1,0 +1,30 @@
+
+---
+title: 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+```
+
+---
+
+
+##Emily S. Webber, Ph.D.
+
+  Data Scientist and Analytics professional. 
+  
+  Passionate about all things data. 
+  
+  Builder of custom in-house Analytics programs. 
+
+  Optimisitc about a data driven future. 
+  
+  
+  
+  E-mail: webbere@ohsu.edu
+  
+  
+  
+  

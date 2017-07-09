@@ -1,0 +1,43 @@
+---
+title: "Analytical Skills"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Expert user of R, SPSS, Excel, Powerpoint, Word. 
+
+Advanced user of Tableau. 
+
+Formal education in statistics.
+
+1. Parametric and non-Parametric statistics.
+
+2. Principal Component Analysis
+
+3. Correlation Analysis
+
+
+Knowledge and experience using machine learning to predict rare events. 
+
+1. Regression 
+
+2. Suppot Vector Machines
+
+3. Synthetic Minority Oversampling Technique 
+
+4. Random Forests. 
+
+Demonstrated ability to learn relevant software and coding languages as necessary.
+
+Extensive experience working with data for academic, governmental and organizational purposes at a very high level.
+
+Real world experience building customized analytics programs that streamline existing organizational operations to achieve multi-billion dollar goals. 
+
+Website building with R. 
+
+
+

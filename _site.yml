@@ -3,10 +3,19 @@ output_dir: "."
 navbar:
   title: "RLD"
   left:
+    - text: "Intro"
+      href: Intro.html
+    - text: "Analytical Skills"
+      href: Skills.html
+    - text: "Publications"
+      href: Pubs.html
+    - text: "Public Speaking"
+      href: PubSpeak.html
+    - text: "My Story"
+      href: about.html
     - text: "Data"
       href: data.html
-    - text: "About"
-      href: about.html
+    
 output:
   html_document:
     theme: flatly

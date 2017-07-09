@@ -1,28 +1,30 @@
 
+
 ---
 title: ""
+output: html_document
 ---
-&nbsp;
 
-###This website is about data!  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+```
 
-I am a scientist, and I love data.  There is a lot of publicly available data out there on the web, but we aren't using it well.  I want to try and change that.   
+---
 
-Because I want this page to be just about the data, I will refrain from revealing my own asshole opinions!  I want **you** to form your own asshole opinion and share it with the world!   
+###An interdisciplinary venture to philanthropy
 
-&nbsp;
-&nbsp;
-
-###There are 3 goals of this website: 
-
-1.  Have fun with data.
-
-2. Inspire people to be more curious about data.
-
-3. Promote data literacy.  
-
-We are in the information age, and with all this data flying around it is hard to know what is real, what is an outright lie, and what is just a well informed opinion. 
-
+  My journey with data started when I was a neuroscientist.  I completed my Ph.D. within an interdisciplinary department that bridged biological, psychological and philsophical ideas.  This is where I really started learning about data, statistics and the art of using numbers to glean insight.  Specificially, I studied how the brain processed relative values of rewards by recording from neurons in live and behaving animals.   I recorded neural activity on 16 channels simultaneously, and the equipment sampled the data at a rate of 40,000 times per second. This resulted in **a lot** of data.  Some of this was signal, but most of it was noise.  Figuring out how to make this data usable was a wonderful challenge.  I decided that learning how to code was the best way forward, so I taught myself how to use a programming language called MatLab. I separated the signal (neural firing) from the noise using principal component analyses, and conducted a massive statistical inquiry that ultimately revealed key insights into how the brain compares one reward with another (Webber and colleagues, 2016).  
+  
+  I loved the interdisciplinary aspect of my graduate work, so an interdisciplinary Postdoctoral Fellowship seemed like a natural next step.  I applied to and won a position at the National Institutes of Diabetes, Digestive and Kidney Diseases (NIDDK) at the National Insitutes of Health (NIH).  Here I studied how the feeling of hunger is generated in the brain.  This was a world class opportunity and an outstanding experience. I learned how to do a amazing things at the NIH, like a how to turn neurons on and off using light. While completing my Postdoctoral Fellowship I had the realisation that working with data was my favorite part about doing science. So, when my contract was up I decided specialize my career in data science.
+  
+  It was a daunting idea to switch fields, but I found am oustanding opportunity as the Assistant Director of Analytics for the OHSU Foundation.  The Foundation had started using analytics in their development efforts, but needed someone who knew about statisitcs and modeling to come in and take it to the next level.  They offered me the opportunity to build an analytics program for the Foundation, and I was thrilled to accept. In my current role I get to use statistics, modeling and analytics to help raise money for biomedical research, which is a mission that will always be close to my heart. Here I have the privledge to support amazing individuals who raise substantial amounts of money for other scientists that aim to end cancer, HIV/AIDs, blindness and neurodegenerative diseases.
+  
+  The Foundation allows me creative freedom to apply my expertise with data to solving a variety of in-house challenges. I create ensemble models that integrate the theortetical framework of Regression, SVM/SMOTe, and Random Forests. These models accurately predicted more than 70 million dollars in revenue in the first year alone. I have also created other metric systems that are key for development purposes and have conducted several extensive analyses on Foundation performance and operations.  This work is all done in collaboration with the outstanding professionals in the various departments at the OHSU Foundation. Outside bench-marking agencies have referred to our collective efforts as "cutting-edge" in the field.  I hope to continue to push boundaries in my current position, and aim to faciliate the greatness that already exists within this amazing organization.  
+  
+  
+  
+  
+   
 [Like this on Facebook!](https://www.facebook.com/RLData/)
 
 All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData). 

@@ -4,6 +4,14 @@ title: ""
 ---
 &nbsp;
 &nbsp;
+&nbsp;
+
+I love data so much that I spend my free time finding and analyzing publically available data. This work is just a fun way that I build on my coding and analyses skills. 
+
+&nbsp;
+&nbsp;
+
+
 
 ##Mixed Martial Analytics
 
