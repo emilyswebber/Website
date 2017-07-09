@@ -6,7 +6,7 @@ title: ""
 &nbsp;
 &nbsp;
 
-I love data so much that I spend my free time finding and analyzing publically available data. This work is just a fun way that I build my skills. 
+I love data so much that I spend my free time finding and analyzing publically available data. These projects are just a fun way that I like to build my skills. 
 
 &nbsp;
 &nbsp;
@@ -110,3 +110,7 @@ This document displays data taken from publicly available 2014 census records. H
 
 
 
+[Like this on Facebook!](https://www.facebook.com/RLData/)
+
+
+**All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData).** 

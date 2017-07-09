@@ -35,7 +35,4 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE)
   
   
    
-[Like this on Facebook!](https://www.facebook.com/RLData/)
-
-All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData). 
  

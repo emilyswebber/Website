@@ -1,7 +1,7 @@
 name: "Real Life Data"
 output_dir: "."
 navbar:
-  title: "RLD"
+  title: "Emily S. Webber, Ph.D."
   left:
     - text: ""
       href: Index.html
