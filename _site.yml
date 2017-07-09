@@ -17,7 +17,7 @@ navbar:
       href: about.html
     - text: "Data"
       href: data.html
-    
+encoding: UTF-8    
 output:
   html_document:
     theme: flatly
