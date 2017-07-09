@@ -8,7 +8,6 @@ title: ""
 ##Emily S. Webber, Ph.D.
 
 ---
-&nbsp;
 
 Data Scientist and Analytics professional 
 &nbsp;
@@ -20,8 +19,6 @@ Builder of custom in-house Analytics programs
 &nbsp;
 
 Optimisitc about a data driven future
-
-
 
 
 ![](C:\\Users\\owner\\Desktop\\Website\\interview.jpg)
