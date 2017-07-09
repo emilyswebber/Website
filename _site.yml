@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "RLD"
   left:
+    - text: "RLD"
+      href: Index.html
     - text: "Intro"
       href: Intro.html
     - text: "Analytical Skills"
