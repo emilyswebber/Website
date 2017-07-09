@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Peer-Reviewed Journal Articles
 &nbsp;
 
+
 **Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. Eneuro,  3(5), 1-21.
 
 Burnett, J.C., Li., C.,  **Webber, E.**, Tsaousidou, E., Li. C., Xue, S.U., Bruning, J.C., Krashes, M.J. (2016). Hunger-driven motivational state competition.  Neuron, 92(1), 187-201 . 
@@ -35,6 +36,7 @@ Binkley, K. A., **Webber, E. S.**, Powers, D. D., & and Cromwell, H. C. (2014). 
 J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwell, R.J. Servatius, & K.C.H. Pang (2009). Wistar-Kyoto rats as an animal model of anxiety vulnerability: Support for a hyper-vigilance hypothesis. Behavioral Brain Research, 201(4), 162-168.  
 
 
+&nbsp;
 
 ###Peer-Reviewed Abstracts
 &nbsp;
@@ -64,8 +66,10 @@ J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwel, R. Servatius, & K.C.H
 
 **E.S. Webber**, T.J. Beckwith, H.C. Cromwell (2008). Prepulse inhibition in rats selectively bred for differential ultrasonic vocalization emission. Toledo, OH: University of Toledo/BGSU 17th Annual Symposium
 
+&nbsp;
 
 ###Journals Reviewed 
+
 &nbsp;
 
 The International Journal of Neuropsychopharmacology 

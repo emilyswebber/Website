@@ -8,21 +8,48 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, message = FALSE)
 ```
 
+```{r include = FALSE, warning = FALSE}
+library(dplyr)
+library(data.table)
+library(knitr)
+library(ggplot2)
 
+c <- c("Data Scientist and Analytics professional", "Passionate about all things data", "Builder of custom in-house Analytics programs", "Optimisitc about a data driven future") 
+
+c <- as.data.table(c)
+
+
+```
+
+
+&nbsp;
+&nbsp;
 
 ##Emily S. Webber, Ph.D.
 
-  Data Scientist and Analytics professional. 
-  
-  Passionate about all things data. 
-  
-  Builder of custom in-house Analytics programs. 
+---
+&nbsp;
 
-  Optimisitc about a data driven future. 
+Data Scientist and Analytics professional 
+&nbsp;
+
+Passionate about all things data 
+&nbsp;
+
+Builder of custom in-house Analytics programs 
+&nbsp;
+
+Optimisitc about a data driven future
+
+&nbsp;
+
+
+![](C:\\Users\\owner\\Desktop\\Website\\DCPic.jpg) 
+
+
   
   
-  
-  E-mail: webbere@ohsu.edu
+E-mail: webbere@ohsu.edu
   
   
   

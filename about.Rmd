@@ -9,13 +9,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, message = FALSE)
 ```
 
----
 &nbsp;
 &nbsp;
-
 
 ###An interdisciplinary venture to philanthropy
+
 ---
+
+&nbsp;
+
+![](C:\\Users\\owner\\Desktop\\Website\\costapic.jpg) 
+
 &nbsp;
 &nbsp;
 

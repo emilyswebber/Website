@@ -16,5 +16,4 @@ knitr::opts_chunk$set(echo = TRUE)
   I even made an appearance on the nationally televised CBS Sunday Morning Show to demonstrate how lab rats "laugh" when you tickle them.  
 	
 
-[pic](http://www.cbsnews.com/news/a-surprising-look-at-rats/)
-
+[![](C:\\Users\\owner\\Desktop\\Website\\news.bmp)](http://www.cbsnews.com/news/a-surprising-look-at-rats/)
