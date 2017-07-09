@@ -7,8 +7,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+---
+&nbsp;
+&nbsp;
 
 ###Peer-Reviewed Journal Articles
+&nbsp;
 
 **Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. Eneuro,  3(5), 1-21.
 
@@ -33,6 +37,7 @@ J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwell, R.J. Servatius, & K.
 
 
 ###Peer-Reviewed Abstracts
+&nbsp;
 
 **E.S. Webber** & M.J. Krashes (2014). Melanocortin-4 receptor in satiety and hunger: Influence from limbic regions.  Program number 834.11/PP3 2014 Abstracts Viewer/Itinerary Planner, Washington DC, Society for Neuroscience 2014 CD-ROM
 
@@ -61,6 +66,7 @@ J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwel, R. Servatius, & K.C.H
 
 
 ###Journals Reviewed 
+&nbsp;
 
 The International Journal of Neuropsychopharmacology 
 

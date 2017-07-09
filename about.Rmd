@@ -10,8 +10,14 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE)
 ```
 
 ---
+&nbsp;
+&nbsp;
+
 
 ###An interdisciplinary venture to philanthropy
+---
+&nbsp;
+&nbsp;
 
   My journey with data started when I was a neuroscientist.  I completed my Ph.D. within an interdisciplinary department that bridged biological, psychological and philsophical ideas.  This is where I really started learning about data, statistics and the art of using numbers to glean insight.  Specificially, I studied how the brain processed relative values of rewards by recording from neurons in live and behaving animals.   I recorded neural activity on 16 channels simultaneously, and the equipment sampled the data at a rate of 40,000 times per second. This resulted in **a lot** of data.  Some of this was signal, but most of it was noise.  Figuring out how to make this data usable was a wonderful challenge.  I decided that learning how to code was the best way forward, so I taught myself how to use a programming language called MatLab. I separated the signal (neural firing) from the noise using principal component analyses, and conducted a massive statistical inquiry that ultimately revealed key insights into how the brain compares one reward with another (Webber and colleagues, 2016).  
   
