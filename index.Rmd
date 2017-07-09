@@ -4,17 +4,24 @@ title: ""
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+##Emily S. Webber, Ph.D.
+
+---
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\LOGO1.png)](https://reallifedata.github.io/Website/Intro.html)
+Data Scientist and Analytics professional 
+&nbsp;
+
+Passionate about all things data 
+&nbsp;
+
+Builder of custom in-house Analytics programs 
+&nbsp;
+
+Optimisitc about a data driven future
+
+&nbsp;
 
 
+![](C:\\Users\\owner\\Desktop\\Website\\DCPic.jpg)

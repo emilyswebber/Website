@@ -1,12 +1,10 @@
 name: "Real Life Data"
 output_dir: "."
 navbar:
-  title: "Emily S. Webber, Ph.D."
+  title: "Emily S. Webber"
   left:
     - text: ""
       href: Index.html
-    - text: "Intro"
-      href: Intro.html
     - text: "Analytical Skills"
       href: Skills.html
     - text: "Publications"
