@@ -6,17 +6,23 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 ---
 &nbsp;
+
+**Software**
+
+1. R - expert level
+
+2. SPSS - expert level
+
+3. Microsoft Office - expert level
+
+4. Tableau - advanced level
+
 &nbsp;
-&nbsp;
 
-Expert user of R, SPSS, Excel, Powerpoint, Word. 
 
-Advanced user of Tableau. 
-
-Formal education in statistics.
+**Formal education in statistics.**
 
 1. Parametric and non-Parametric statistics.
 
@@ -24,8 +30,9 @@ Formal education in statistics.
 
 3. Correlation Analysis
 
+&nbsp;
 
-Knowledge and experience using machine learning to predict rare events. 
+**Knowledge and experience using machine learning to predict rare events.** 
 
 1. Regression 
 
@@ -35,13 +42,20 @@ Knowledge and experience using machine learning to predict rare events.
 
 4. Random Forests. 
 
-Demonstrated ability to learn relevant software and coding languages as necessary.
+&nbsp;
 
-Extensive experience working with data for academic, governmental and organizational purposes at a very high level.
+*Real world experience building customized analytics programs that streamline existing organizational operations to achieve multi-billion dollar goals.* 
 
-Real world experience building customized analytics programs that streamline existing organizational operations to achieve multi-billion dollar goals. 
+&nbsp;
 
-Website building with R. 
+*High level experience working with data for academic, governmental and organizational purposes.*
 
+&nbsp;
+
+*Demonstrated ability to learn relevant software and coding languages as necessary.*
+
+&nbsp;
+
+*Website building with R.* 
 
 
