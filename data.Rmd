@@ -6,7 +6,7 @@ title: ""
 &nbsp;
 &nbsp;
 
-I love data so much that I spend my free time finding and analyzing publically available data. These projects are just a fun way that I like to build my skills. 
+In my free time I like to find an analyze publically available data, these projects are just a fun way that I like to build my skills. 
 
 &nbsp;
 &nbsp;
@@ -27,26 +27,7 @@ An analaysis of UFC data from 1993-2016.
 Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/). All R code for this and other projects can be found on my [GitHub](https://github.com/RealLifeData) site. 
 
 
-##You've got mail! 
-###Scott Pruitt's e-mails
- 
-
-[Show Me the Data!](https://reallifedata.github.io/PruittEmails/index.html)
-&nbsp;
-2.22.2017
-&nbsp;
-
-[![](C:\\Users\\owner\\Desktop\\Website\\email2.PNG)](https://reallifedata.github.io/PruittEmails/) 
-
-&nbsp;
-
-Scott Pruitt's e-mails were recently released.  I went ahead and did some very basic text analytics on the data. 
-
-Enjoy! 
-
-Data:  The PDF originals were too large to put onto GitHub, so if you want those files you must download them yourself from [here](http://www.exposedbycmd.org/Scott-Pruitt-Missing-Emails).  The R code can be found on my [GitHub site](https://github.com/RealLifeData).  
-
-##Did they took our jobs?
+##Unemployment and Immigration: are they related?
 
 [Show Me the Data!](https://reallifedata.github.io/PopulationData/index.html)
 &nbsp;
