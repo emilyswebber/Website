@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 
 
-**Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. Eneuro,  3(5), 1-21.
+**Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. eNeuro,  3(5), 1-21.
 
 Burnett, J.C., Li., C.,  **Webber, E.**, Tsaousidou, E., Li. C., Xue, S.U., Bruning, J.C., Krashes, M.J. (2016). Hunger-driven motivational state competition.  Neuron, 92(1), 187-201 . 
 

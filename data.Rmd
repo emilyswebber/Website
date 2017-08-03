@@ -47,7 +47,7 @@ Enjoy!
 Data:  The PDF originals were too large to put onto GitHub, so if you want those files you must download them yourself from [here](http://www.exposedbycmd.org/Scott-Pruitt-Missing-Emails).  The R code can be found on my [GitHub site](https://github.com/RealLifeData).  
 
 
-##Unemployment and Immigration: Did they took our jobs?
+##Unemployment and Immigration: Did they 'took our jobs'?
 
 
 [Show Me the Data!](https://reallifedata.github.io/PopulationData/index.html)

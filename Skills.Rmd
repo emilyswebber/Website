@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Formal education in statistics.**
 
-1. Parametric and non-Parametric statistics.
+1. Parametric and Non-Parametric Statistics.
 
 2. Principal Component Analysis
 
@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. Regression 
 
-2. Suppot Vector Machines
+2. Support Vector Machines
 
 3. Synthetic Minority Oversampling Technique 
 

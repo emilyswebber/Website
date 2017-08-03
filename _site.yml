@@ -11,7 +11,7 @@ navbar:
       href: PubSpeak.html
     - text: "My Story"
       href: about.html
-    - text: "Data"
+    - text: "Fun W/ Data"
       href: data.html
     - text: "Contact"
       href: contact.html

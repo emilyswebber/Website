@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 
 
-  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups.  Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences, which has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
+  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups.  Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences. This has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
   
   I even made an appearance on the nationally televised CBS Sunday Morning Show to demonstrate how lab rats "laugh" when you tickle them.  
 	
