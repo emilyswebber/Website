@@ -11,9 +11,29 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 
 
-  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups.  Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences. This has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
+  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups. In my current role, I give regular "Listen 'n' Learn" presentations to teach colleauges across departments how to incorporate machine learning and other analytic tools into day-to-day operations.  
+  &nbsp;
+  Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences. This has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
   
   I even made an appearance on the nationally televised CBS Sunday Morning Show to demonstrate how lab rats "laugh" when you tickle them.  
 	
 
 [![](C:\\Users\\owner\\Desktop\\Website\\news.bmp)](http://www.cbsnews.com/news/a-surprising-look-at-rats/)
+
+&nbsp;
+&nbsp;
+
+
+###Public Outreach
+
+  In addition to my professional pubic speaking, I regularly do outreach events where I engage the community regarding science and professional development.  These include volunteering for STEM in the Park and Brain Awareness Week.  
+  
+&nbsp;
+&nbsp;
+
+Most recently, I volunteered to mentor Postdoctoral Fellows at the Oregon Health and Science University on alternative careers.  [See Article](https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/postdocs-outside-academia.cfm)
+
+[![](C:\\Users\\owner\\Desktop\\Website\\SOM.jpg)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/postdocs-outside-academia.cfm)
+
+
+
