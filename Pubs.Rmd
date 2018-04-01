@@ -8,12 +8,41 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ---
+
+###Contributions to Literature and Science
 &nbsp;
 &nbsp;
+
+I contribute to both academic and non-academic literature.  My academic writings are published in peer-reviewed scientific journals.  My non-academic works are written as a hobby and are self published on Amazon. 
+
+&nbsp;
+&nbsp;
+
+###Science Fiction 
+&nbsp;
+&nbsp;
+My first novel is available for purchase and download [here](https://www.amazon.com/Dangerously-Human-S-Webber/dp/198064859X/ref=sr_1_1?ie=UTF8&qid=1522607711&sr=8-1&keywords=dangerously+human).
+
+&nbsp;
+[![](C:\\Users\\owner\\Desktop\\Website\\CoverNewPaper.jpg)](https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&qid=1522038336&sr=8-1&keywords=dangerously+human)
+&nbsp;
+&nbsp;
+
+Space is a very deadly place, a vacuum filled with colossal distances, impenetrable darkness and blazing balls of fire. Humans have spread so far throughout the four quadrants that they have lost touch with their origins. The location of Earth has been lost to time and the planets that were so carefully colonized are thriving.
+
+Matter generators have given humanity the gift of creation but they have failed to realize its' true power. People use the technology without understanding where it came from, or how it works. The two largest organizations in the quadrants control and distribute the substance that is required to make these matter generators produce.
+
+Clandestine entities from the boundless zone smuggle the required materials into the quadrants through a small but elite group of liaisons. A contract lasting generations keeps the arrangement intact. A handful of people know where to meet these aliens to acquire the mysterious substance but no one knows where they get it or why they require payment in human slaves...
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ###Peer-Reviewed Journal Articles
 &nbsp;
-
 
 **Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. eNeuro,  3(5), 1-21.
 
@@ -76,14 +105,4 @@ The International Journal of Neuropsychopharmacology
 
 &nbsp;
 &nbsp;
-
-
-###Science Fiction Authorship
-
-&nbsp;
-&nbsp;
-
-As a hobby I write Science Fiction Novels.  My first is available for purchase and download on Amazon. 
-
-[![](C:\\Users\\owner\\Desktop\\Website\\CoverNewPaper.jpg)](https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&qid=1522038336&sr=8-1&keywords=dangerously+human)
 
