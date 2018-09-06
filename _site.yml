@@ -13,6 +13,8 @@ navbar:
       href: about.html
     - text: "Fun w/ Data"
       href: data.html
+    - text: "Hobbies"
+      href: hobbies.html
     - text: "Contact"
       href: contact.html
 encoding: UTF-8    

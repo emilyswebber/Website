@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 3. Microsoft Office - expert level
 
-4. Tableau - advanced level
+4. Tableau - expert level
 
 &nbsp;
 
@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 3. Synthetic Minority Oversampling Technique 
 
-4. Random Forests. 
+4. Random Forests 
 
 &nbsp;
 
@@ -58,4 +58,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *Website building with R.* 
 
+&nbsp;
+
+*10+ certifications from IBM and DataCamp in data science.*
 

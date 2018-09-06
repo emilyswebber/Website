@@ -1,0 +1,112 @@
+---
+title: Hobbies
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+##Science Fiction Publications 
+&nbsp;
+&nbsp;
+In my free time I like to write science fiction novels.  They are self-published on Amazon. 
+&nbsp;
+&nbsp;  
+
+&nbsp;  
+
+###Alien Tombs Series
+Available for purchase and download [here](https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&qid=1536264789&sr=8-1&keywords=the+travelers+dagger).
+
+
+[![](C:\\Users\\owner\\Desktop\\Website\\TD.jpg)](https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&qid=1536264789&sr=8-1&keywords=the+travelers+dagger)
+&nbsp;
+&nbsp;
+
+The great Pharaoh Rameses II rules over Egypt with a golden hand. The people prosper and there is peace along the Nile - or at least, that is how it appears.  
+
+
+Powerful cults conspire against Rameses in the north and an ancient grudge fuels the flame. Nebi and his family get swept into a devious plot to kill the Pharaoh. His father, a Mason, is accused of a terrible crime and Nebi is forced to run for his freedom. He stumbles onto an ancient object that changes everything. He follows its' call to the Valley of the Kings and learns a shocking history of his people.  
+&nbsp;
+&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+###Dangerously Human
+
+&nbsp;
+&nbsp;
+Available for purchase and download [here](https://www.amazon.com/Dangerously-Human-S-Webber/dp/198064859X/ref=sr_1_1?ie=UTF8&qid=1522607711&sr=8-1&keywords=dangerously+human).
+
+&nbsp;
+[![](C:\\Users\\owner\\Desktop\\Website\\b1.jpg)](https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&qid=1522038336&sr=8-1&keywords=dangerously+human)
+&nbsp;
+&nbsp;
+
+Space is a very deadly place, a vacuum filled with colossal distances, impenetrable darkness and blazing balls of fire. Humans have spread so far throughout the four quadrants that they have lost touch with their origins.
+
+Matter generators have given humanity the gift of creation but they have failed to realize its' true power. People use the technology without understanding where it came from, or how it works. 
+
+Clandestine entities from the boundless zone smuggle the required materials into the quadrants through a small but elite group of liaisons. A contract lasting generations keeps the arrangement intact. A handful of people know where to meet these aliens to acquire the mysterious substance but no one knows where they get it or why they require payment in human slaves...
+
+&nbsp;
+&nbsp;  
+
+###Short Stories: 
+
+I also write and publish short stories on my [blog](https://eswebber.com/).
+
+
+&nbsp;
+&nbsp;
+
+##Brazilian Jiu Jitsu
+
+When I am not working or writing, you can find me training at my local gym.  I have been training and competing in Brazilian Jiu Jitsu since 2015. 
+
+
+###Blue Belt!
+&nbsp;  
+I was awarded my blue belt! 
+
+![](C:\\Users\\owner\\Desktop\\Website\\bluebelt1.jpg)
+&nbsp;  
+
+After some well-intentioned hazing...
+&nbsp;  
+&nbsp;  
+
+![](C:\\Users\\owner\\Desktop\\Website\\bluebelt2.jpg)
+
+&nbsp;  
+&nbsp;  
+
+
+##Nature Photography
+&nbsp;  
+
+It's sometimes hard to fit everything in, but I also like to take nature pictures.
+
+Here is a panorama that I took in the Rocky Mountains at 14,000 feet!
+&nbsp;  
+
+![](C:\\Users\\owner\\Desktop\\Website\\PanoDo.jpg)
+&nbsp;  
+&nbsp;  
+
+Here are some I took at Yellowstone National Park. 
+&nbsp;  
+&nbsp;  
+
+![](C:\\Users\\owner\\Desktop\\Website\\yellow.jpg)
+&nbsp;  
+
+![](C:\\Users\\owner\\Desktop\\Website\\yellow2.jpg)
+
+
+
+
