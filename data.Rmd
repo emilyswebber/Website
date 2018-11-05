@@ -11,6 +11,22 @@ In my free time I like to find an analyze publically available data, these proje
 &nbsp;
 &nbsp;
 
+##The 133rd National Congress
+
+[Show Me the Data!](https://public.tableau.com/profile/emily.webber2042#!/vizhome/133rdCongress/Dashboard1)
+&nbsp;
+11.04.2018
+&nbsp;
+
+I created an interactive dashboard that allows you to explore exactly what the 133rd national congress was able to accomplish.  There is an overview of bills proposed, by what party and the outcomes.  There is also an analysis that examines the productivity of both bodies througout the year. 
+
+For a deeper dive, there is an exportable table that gives the details of the bills you segmented with the filters.  Enjoy!
+
+
+[![](C:\\Users\\owner\\Desktop\\Website\\congress.PNG)](https://public.tableau.com/profile/emily.webber2042#!/vizhome/133rdCongress/Dashboard1)
+&nbsp;
+
+Tableau has a variety of sample public datasets to play around with.  You can find them [here](https://public.tableau.com/en-us/s/resources). 
 
 
 ##Mixed Martial Analytics
