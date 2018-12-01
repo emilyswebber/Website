@@ -8,14 +8,29 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ---
-##Science Fiction Publications 
+##Other Publications 
 &nbsp;
 &nbsp;
-In my free time I like to write science fiction novels.  They are self-published on Amazon. 
+In my free time I like to write outside of the realm of peer-review.  I write career materials, short stories and science fiction novels. They are self-published on Amazon. 
 &nbsp;
 &nbsp;  
 
 &nbsp;  
+
+##Alternative Careers in Science: A 2018 Starter's Guide to Success
+
+Available for purchase and download [here](https://www.amazon.com/Alternative-Careers-Science-Starters-Success-ebook/dp/B07KYV3SKS/ref=sr_1_5?ie=UTF8&qid=1543681825&sr=8-5&keywords=alternative+careers+in+science).
+
+[![](C:\\Users\\owner\\Desktop\\Website\\science3.jpg)](https://www.amazon.com/Alternative-Careers-Science-Starters-Success-ebook/dp/B07KYV3SKS/ref=sr_1_5?ie=UTF8&qid=1543681825&sr=8-5&keywords=alternative+careers+in+science)
+&nbsp;
+&nbsp;
+
+Designed for people who want to get off of the tenure track, but don't know how to get started. This guide was written by a neuroscientist who left research and found success in the field of Data Science & Analytics. 
+
+
+Importantly this is not an exhaustive resource on career trajectories, resume writing or networking. It is a simple, how-to guide for getting started in a fast-changing job market. Most academics lean towards reading piles of research before taking action. I argue that this is not a good strategy for blazing your own trail in 2018. You can find extensive tomes about career development on Amazon, and these offer useful, general advice on career transitions - but in my experience they were more work than they were worth. Each Ph.D. is unique, and your path is going to be unique as well. This guide provides practical, actionable advice for finding a high-value job in the dynamic job market - by someone who actually did it. 
+
+&nbsp;
 
 ###Alien Tombs Series
 Available for purchase and download [here](https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&qid=1536264789&sr=8-1&keywords=the+travelers+dagger).
