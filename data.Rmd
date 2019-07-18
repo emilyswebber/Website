@@ -11,7 +11,7 @@ In my free time I like to find an analyze publically available data, these proje
 &nbsp;
 &nbsp;
 
-##The 113th National Congress
+## The 113th National Congress
 
 [Show Me the Data!](https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1)
 &nbsp;
@@ -29,14 +29,14 @@ For a deeper dive, there is an exportable table that gives the details of the bi
 Tableau has a variety of sample public datasets to play around with.  You can find them [here](https://public.tableau.com/en-us/s/resources). 
 
 
-##Mixed Martial Analytics
+## Mixed Martial Analytics
 
 [Show Me the Data!](https://reallifedata.github.io/MMA/)
 &nbsp;
 5.25.2017
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\image3.PNG)](https://reallifedata.github.io/MMA/)
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/image3.PNG)](https://reallifedata.github.io/MMA/)
 
 An analaysis of UFC data from 1993-2016. 
 
@@ -46,7 +46,7 @@ Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a
 
 &nbsp;
 
-##Unemployment and Immigration: Did they 'took our jobs'?
+## Unemployment and Immigration: Did they 'took our jobs'?
 
 
 [Show Me the Data!](https://reallifedata.github.io/PopulationData/index.html)
@@ -54,7 +54,7 @@ Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a
 2.20.2017
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\Population.PNG)](https://reallifedata.github.io/PopulationData/) 
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Population.PNG)](https://reallifedata.github.io/PopulationData/) 
 
 &nbsp;
 
@@ -81,7 +81,7 @@ Data was obtained from a variety of sources:
 1.30.2017
 &nbsp;
 
-[![](C:\\Users\\owner\\Desktop\\Website\\Crime.png)](https://reallifedata.github.io/Portland_Crime_2014/) 
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Crime.png)](https://reallifedata.github.io/Portland_Crime_2014/) 
 
 &nbsp;
 
@@ -91,7 +91,7 @@ This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and 
 
 &nbsp;
 
-##Where are all of the single people?
+## Where are all of the single people?
 
 [Show Me the Data!](https://reallifedata.github.io/Single_People/)
 &nbsp;
@@ -99,7 +99,7 @@ This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and 
 &nbsp;
 
 
-[![](C:\\Users\\owner\\Desktop\\Website\\Single.png)](https://reallifedata.github.io/Single_People/) 
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Single.png)](https://reallifedata.github.io/Single_People/) 
 
 
 &nbsp;
@@ -115,3 +115,25 @@ This document displays data taken from publicly available 2014 census records. H
 
 
 **All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData).** 
+
+
+<!--html_preserve-->
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91308049-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-589036a8549be1ce"></script>
+
+
+<!--/html_preserve-->

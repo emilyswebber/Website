@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ---
-###Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles
 &nbsp;
 
 Douglas, H.M., Halverstadt, B.A., Reinhart-Anex, P., **Webber, E.S.**, Cromwell, H.C. (2018). A possible social relative reward effect: Influence of outcome inequity between rats during operant responding. Behavioural Processes, 157, 459-469.
@@ -54,7 +54,7 @@ J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwell, R.J. Servatius, & K.
 
 &nbsp;
 
-###Peer-Reviewed Abstracts
+### Peer-Reviewed Abstracts
 &nbsp;
 
 **E.S. Webber** & M.J. Krashes (2014). Melanocortin-4 receptor in satiety and hunger: Influence from limbic regions.  Program number 834.11/PP3 2014 Abstracts Viewer/Itinerary Planner, Washington DC, Society for Neuroscience 2014 CD-ROM
@@ -91,7 +91,7 @@ J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwel, R. Servatius, & K.C.H
 
 &nbsp;
 
-###Journals Reviewed 
+### Journals Reviewed 
 
 &nbsp;
 
@@ -100,3 +100,19 @@ The International Journal of Neuropsychopharmacology
 &nbsp;
 &nbsp;
 
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91308049-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-589036a8549be1ce"></script>

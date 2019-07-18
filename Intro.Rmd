@@ -25,7 +25,7 @@ c <- as.data.table(c)
 &nbsp;
 &nbsp;
 
-##Emily S. Webber, Ph.D.
+## Emily S. Webber, Ph.D.
 
 ---
 &nbsp;
@@ -44,12 +44,12 @@ Optimisitc about a data driven future
 &nbsp;
 
 
-![](C:\\Users\\owner\\Desktop\\Website\\DCPic.jpg) 
+![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/DCPic.jpg) 
 
 
   
   
-E-mail: webbere@ohsu.edu
+
   
   
   
