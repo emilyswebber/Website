@@ -17,7 +17,7 @@ In my free time I like to find an analyze publically available data, these proje
 08.04.2019
 &nbsp;
 
-Below you can find an interactive dashboard that allows you to explore the top 15K active NIH grants by Institute, Organization and project name. 
+Below you can find an interactive dashboard that allows you to explore the top NIH grants (over $650k) by Institute, Organization and project name. 
 
 [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/NIH.PNG)](https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1)
 &nbsp;
