@@ -42,16 +42,16 @@ Tableau has a variety of sample public datasets to play around with.  You can fi
 
 ## Mixed Martial Analytics
 
-[Show Me the Data!](https://reallifedata.github.io/MMA/)
+[Show Me the Data!](https://emilyswebber.github.io/MMA/)
 &nbsp;
 5.25.2017
 &nbsp;
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/image3.PNG)](https://reallifedata.github.io/MMA/)
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/image3.PNG)](https://emilyswebber.github.io/MMA/)
 
 An analaysis of UFC data from 1993-2016. 
 
-Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/). All R code for this and other projects can be found on my [GitHub](https://github.com/RealLifeData) site. 
+Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/). All R code for this and other projects can be found on my [GitHub](https://github.com/emilyswebber) site. 
 &nbsp;
 
 
@@ -60,12 +60,12 @@ Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a
 ## Unemployment and Immigration: Did they 'took our jobs'?
 
 
-[Show Me the Data!](https://reallifedata.github.io/PopulationData/index.html)
+[Show Me the Data!](https://emilyswebber.github.io/PopulationData/index.html)
 &nbsp;
 2.20.2017
 &nbsp;
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Population.PNG)](https://reallifedata.github.io/PopulationData/) 
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Population.PNG)](https://emilyswebber.github.io/PopulationData/) 
 
 &nbsp;
 
@@ -73,7 +73,7 @@ There has been a lot of talk of immigration and the job market recently, so I th
 
 Data was obtained from a variety of sources:
 
-[GitHub site](https://github.com/RealLifeData)
+[GitHub site](https://github.com/emilyswebber)
 &nbsp;
 [Census](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) (Table S0501: single year 2009-2015)
 &nbsp;
@@ -87,12 +87,12 @@ Data was obtained from a variety of sources:
 
 ##Crime incidents in Portland, Oregon during 2014
 
-[Show Me the Data!](https://reallifedata.github.io/Portland_Crime_2014/)
+[Show Me the Data!](https://emilyswebber.github.io/Portland_Crime_2014/)
 &nbsp;
 1.30.2017
 &nbsp;
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Crime.png)](https://reallifedata.github.io/Portland_Crime_2014/) 
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Crime.png)](https://emilyswebber.github.io/Portland_Crime_2014/) 
 
 &nbsp;
 
@@ -104,13 +104,13 @@ This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and 
 
 ## Where are all of the single people?
 
-[Show Me the Data!](https://reallifedata.github.io/Single_People/)
+[Show Me the Data!](https://emilyswebber.github.io/Single_People/)
 &nbsp;
 1.30.2017
 &nbsp;
 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Single.png)](https://reallifedata.github.io/Single_People/) 
+[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Single.png)](https://emilyswebber.github.io/Single_People/) 
 
 
 &nbsp;
@@ -125,7 +125,7 @@ This document displays data taken from publicly available 2014 census records. H
 [Like this on Facebook!](https://www.facebook.com/RLData/)
 
 
-**All of the data, R code and other information presented here can be found on my [github site](https://github.com/RealLifeData).** 
+**All of the data, R code and other information presented here can be found on my [github site](https://github.com/emilyswebber).** 
 
 
 <!--html_preserve-->
