@@ -85,7 +85,7 @@ Data was obtained from a variety of sources:
 &nbsp;
 [2014 Violent Crime Rates](http://www.worldatlas.com/articles/the-most-dangerous-states-in-the-u-s.html)
 
-##Crime incidents in Portland, Oregon during 2014
+## Crime incidents in Portland, Oregon during 2014
 
 [Show Me the Data!](https://emilyswebber.github.io/Portland_Crime_2014/)
 &nbsp;
