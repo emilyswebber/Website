@@ -11,6 +11,21 @@ In my free time I like to find an analyze publically available data, these proje
 &nbsp;
 &nbsp;
 
+## Logarithmic Loss
+
+[Show Me the Data!](https://emilyswebber.github.io/LogLoss/)
+&nbsp;
+08.24.2019
+&nbsp;
+
+ Click on the image below to be taken to a general overview and exploratory analysis of Logarithmic Loss - an error term used in classification models. 
+ 
+ [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/LogLoss.PNG)](https://emilyswebber.github.io/LogLoss/)
+
+&nbsp;
+
+
+
 ## Active NIH Grants
 [Show Me the Data!](https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1)
 &nbsp;
