@@ -17,7 +17,7 @@ In my free time I like to find an analyze publically available data, these proje
 
 [Show Me the Data!](https://emilyswebber.github.io/Sound_ML/)
 &nbsp;
-08.24.2019
+10.06.2019
 &nbsp;
 
  Click on the image below to be taken to a proof of concept.
