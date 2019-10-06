@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -245,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -324,6 +312,14 @@ $(document).ready(function () {
 <p>     </p>
 <p>In my free time I like to find an analyze publically available data, these projects are just a fun way that I like to build my skills.</p>
 <p>   </p>
+<div id="the-cats-meow" class="section level2">
+<h2>The Cat’s Meow</h2>
+<p><strong>Classifying mammalian vocalizations using R</strong></p>
+<p><a href="https://emilyswebber.github.io/Sound_ML/">Show Me the Data!</a>   08.24.2019  </p>
+<p>Click on the image below to be taken to a proof of concept.</p>
+<p><a href="https://emilyswebber.github.io/Sound_ML/"><img src="voc.png" /></a></p>
+<p> </p>
+</div>
 <div id="logarithmic-loss" class="section level2">
 <h2>Logarithmic Loss</h2>
 <p><a href="https://emilyswebber.github.io/LogLoss/">Show Me the Data!</a>   08.24.2019  </p>
@@ -420,6 +416,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
