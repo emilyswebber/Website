@@ -11,9 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 
 
-  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups. In my current role, I give regular "Listen 'n' Learn" presentations to teach colleauges across departments how to incorporate machine learning and other analytic tools into day-to-day operations.  
+  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups. I have also given organization wide presentations to teach colleauges across departments how to incorporate machine learning and other analytic tools into day-to-day operations.  
+  
   &nbsp;
-  Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences. This has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
+Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences. This has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
   
   I even made an appearance on the nationally televised CBS Sunday Morning Show to demonstrate how lab rats "laugh" when you tickle them.  
 	
