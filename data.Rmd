@@ -11,7 +11,7 @@ In my free time I like to find an analyze publically available data, these proje
 &nbsp;
 &nbsp;
 
-## Reconciling concepts in Machine Learning and Statistics
+## Machine Learning and Statistics: a reconciliation 
 *Machine Learning, P-values & Confidence Intervals*
 
 
@@ -21,6 +21,7 @@ I did an analysis as a proof of concept regarding machine learning models and ho
 
  [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/ML_Chance.PNG)](https://emilyswebber.github.io/ML_Chance/)
 
+&nbsp;
 
 ## The Cat's Meow 
 *Classifying mammalian vocalizations using R*
