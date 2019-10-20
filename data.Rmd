@@ -11,9 +11,19 @@ In my free time I like to find an analyze publically available data, these proje
 &nbsp;
 &nbsp;
 
+## Reconciling concepts in Machine Learning and Statistics
+*Machine Learning, P-values & Confidence Intervals*
+
+
+[Show Me the Data!](https://emilyswebber.github.io/ML_Chance/index.html) 10.19.2019
+
+I did an analysis as a proof of concept regarding machine learning models and how one would calculate something analogous to a p-value in statistics.  I also experimented a bit with non-parametric confidence intervals. 
+
+ [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/ML_Chance.PNG)](https://emilyswebber.github.io/ML_Chance/)
+
 
 ## The Cat's Meow 
-**Classifying mammalian vocalizations using R**
+*Classifying mammalian vocalizations using R*
 
 [Show Me the Data!](https://emilyswebber.github.io/Sound_ML/)
 &nbsp;
