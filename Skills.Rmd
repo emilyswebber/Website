@@ -9,42 +9,70 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 &nbsp;
 
-**Software**
+**Technical  Software**
 
-1. R - expert level
+1. Python 
 
-2. SPSS - expert level
+2. R/R Studio 
 
-3. Microsoft Office - expert level
+3. Tableau
 
-4. Tableau - expert level
+4. Github
 
-&nbsp;
+5. DataRobot
 
+6. SPSS
 
-**Formal education in statistics.**
-
-1. Parametric and Non-Parametric Statistics.
-
-2. Principal Component Analysis
-
-3. Correlation Analysis
 
 &nbsp;
 
-**Knowledge and experience using machine learning to predict rare events.** 
+**Machine Learning and Statistics**
 
-1. Regression 
+1. Machine Learning, Ensemble Learning
 
-2. Support Vector Machines
+2. Parametric and Non-Parametric Statistics
 
-3. Synthetic Minority Oversampling Technique 
+3. Principal Component Analysis
 
-4. Random Forests 
+4. Correlation Analysis
+
+5. Data Visualization
 
 &nbsp;
 
-*Real world experience building customized analytics programs that streamline existing organizational operations to achieve multi-billion dollar goals.* 
+**Emprical Design** 
+
+1. Framing problems within a machine learning and/or statistical context. 
+
+2. Prepping data for a variety of analyses. 
+
+3. Hypothesis testing with statistics. 
+
+&nbsp;
+
+**Other Highlights**
+
+*Experience using Electronic Health Record Data to conduct empirical studies regarding human health.*
+
+&nbsp;
+
+*Peer-reviewed publications and abstracts across industries and health verticals.*
+
+&nbsp;
+
+*Worked with the White House, Department of Health and Human Services and the Centers for Disease Control on the national response to the COVID-19 Pandemic.* 
+
+&nbsp;
+
+*Built a daily custom hospitalization model and surge classifier for the state of West Virginia's COVID-19 joint task force*  
+
+&nbsp;
+
+*Real world experience building customized analytics programs and applied machine learning models to support multibillion dollar goals.* 
+
+&nbsp;
+
+*Experience building custom technical enablement content including walkthroughs, FAQs, tutorial notebooks, videos and full courses including assessments.*
 
 &nbsp;
 
@@ -56,12 +84,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-*Website building with R.* 
-
-&nbsp;
-
-*10+ certifications from IBM and DataCamp in data science.*
-
+*Ability to teach technical content to individuals of varying technical background.*
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />

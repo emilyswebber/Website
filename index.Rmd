@@ -8,20 +8,23 @@ title: ""
 ## Emily S. Webber, Ph.D.
 
 ---
-Data Scientist and Analytics Professional 
+**Senior Data Scientist** 
 &nbsp;
 
-Passionate about all things data 
+Builder of custom machine learning and analytic solutions.
 &nbsp;
 
-Builder of custom in-house Analytics programs 
+Interdisciplinary background in data science, biomedical research, industry and non-profits. 
 &nbsp;
 
-Optimistic about a data-driven future
+Experience with fast paced start-ups, ambiguous challenges, and complex technical landscapes. 
+&nbsp;
+
+Passionate about mission based work.
 &nbsp;
 
 
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/interview.png)
+![](/Users/emilywebber/Dropbox/website_2023/Website/interview.png)
 
 
 

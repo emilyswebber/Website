@@ -11,15 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 
 
-  I have extensive public speaking experience.  I have given 13 presentations at both national and international conferences.  I also participated in weekly seminars at Bowling Green State University and the National Institutes of Health.  I have taught formal courses and given informal talks for various lab groups. I have also given organization wide presentations to teach colleauges across departments how to incorporate machine learning and other analytic tools into day-to-day operations.  
-  
-  &nbsp;
-Notably, my public speaking experiences have been almost exclusively for interdisciplinary audiences. This has allowed me to develop a presentation style that can cover very complex concepts for a broad range of listeners. 
+  I have extensive public speaking experience.  I have given presentations at both national and international conferences, taught undergraduate courses on research methods, and participated in several interdisciplinary seminars throughout the course of my career.  In my current and prior role I also built out custom enablement materials including courses, videos, articles, and notebooks. Customers use these materials to learn how to achieve their goals with a technical platform. 
   
   I even made an appearance on the nationally televised CBS Sunday Morning Show to demonstrate how lab rats "laugh" when you tickle them.  
 	
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/news.bmp)](http://www.cbsnews.com/news/a-surprising-look-at-rats/)
+[![](/Users/emilywebber/Dropbox/Website Dropbox 2/Website/news.bmp)](http://www.cbsnews.com/news/a-surprising-look-at-rats/)
 
 &nbsp;
 &nbsp;
@@ -32,9 +29,10 @@ Notably, my public speaking experiences have been almost exclusively for interdi
 &nbsp;
 &nbsp;
 
-Most recently, I volunteered to mentor Postdoctoral Fellows at the Oregon Health and Science University on alternative careers.  [See Article](https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/postdocs-outside-academia.cfm)
+While at OHSU, I volunteered to mentor Postdoctoral Fellows at the Oregon Health and Science University on alternative careers. 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/SOM.jpg)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/postdocs-outside-academia.cfm)
+[![](/Users/emilywebber/Dropbox/Website Dropbox 2/Website/SOM.JPG)]((https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/postdocs-outside-academia.cfm))
+
 
 
 

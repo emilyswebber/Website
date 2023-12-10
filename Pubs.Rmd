@@ -9,53 +9,49 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 ### Peer-Reviewed Journal Articles
+
 &nbsp;
 
-Douglas, H.M., Halverstadt, B.A., Reinhart-Anex, P., **Webber, E.S.**, Cromwell, H.C. (2018). A possible social relative reward effect: Influence of outcome inequity between rats during operant responding. Behavioural Processes, 157, 459-469.
+Monteleon, P., Ahern, R., Banerjee, S., Desai, K.R., Dadian-Dodoy, D., **Webber, E.**, Omidvar, S., Troy, P.,  Parikh, S.A.  (2023). Modern Treatment of Pulmonary Embolism (USCDT Versus MT): Results From a Real-World, Big Data Analysis (REAL-PE) . Journal of the Society for Cardiovascular Angiography & Interventions,  101192, ISSN 2772-9303. [Link](https://doi.org/10.1016/j.jscai.2023.101192)  
+
+Douglas, H.M., Halverstadt, B.A., Reinhart-Anex, P., **Webber, E.S.**, Cromwell, H.C. (2018). A possible social relative reward effect: Influence of outcome inequity between rats during operant responding. Behavioural Processes, 157, 459-469. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0376635717306162 )  
+
+**Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. eNeuro,  3(5), 1-21.  [Link](https://pubmed.ncbi.nlm.nih.gov/27822506/) 
+
+Burnett, J.C., Li., C.,  **Webber, E.**, Tsaousidou, E., Li. C., Xue, S.U., Bruning, J.C., Krashes, M.J. (2016). Hunger-driven motivational state competition.  Neuron, 92(1), 187-201. [Link](https://pubmed.ncbi.nlm.nih.gov/27693254/)   
+
+**Webber, E.S.**, Krashes, M.J., Bonci, A. (2015).  Elegance of energy balance: insight from circuit manipulations. Synapse, 69.9, 641-474. [Link](https://pubmed.ncbi.nlm.nih.gov/26126768/)  
+
+Garfield, A.S., Li, C., Madara, J.C., Shah, B.P., **Webber, E.**, Steger, J.S., Campbell, J.N., Gavrilova, O., Lee, C.E., Olson, D.P., Elmquist, J.K., Tannous, B.A., Krashes, M.J., Lowell, B.B. (2015). A neural basis for melanocortin-4 receptor regulated appetite. Nature Neuroscience,18(6), 863-871. [Link](https://pubmed.ncbi.nlm.nih.gov/25915476/ ) 
 &nbsp;
 
-**Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. eNeuro,  3(5), 1-21.
+**Webber, E.S.**, Chambers, N., Kostek, J., Mankin, D., Cromwell, H.C. (2015). Relative reward effects on operant behavior: incentive contrast, induction and variety effects.  Behavioral Processes, 116, 87-99. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458168/)
 &nbsp;
 
-
-Burnett, J.C., Li., C.,  **Webber, E.**, Tsaousidou, E., Li. C., Xue, S.U., Bruning, J.C., Krashes, M.J. (2016). Hunger-driven motivational state competition.  Neuron, 92(1), 187-201 . 
+Denis, G.P.R., Joly-Amado, **Webber, E.S.**, A., Castel, J., Cansell, D., Delbes, A., Lacombe, A., Rouch, D., Kassis, N., Langlet, F., Dehouck, B., Fehrentz, J., Martinez, J., Verdie, P., Hnasko, T.S., Magnan, C., Krashes, M.J., Luquet, S.H. (2016).  Palatability drives feeding independent of AgRP neurons. Cell Metabolism, 22(4), 646-657. [Link](https://www.cell.com/cell-metabolism/pdf/S1550-4131(15)00340-X.pdf)
 &nbsp;
 
-
-**Webber, E.S.**, Krashes, M.J., Bonci, A. (2015).  Elegance of energy balance: insight from circuit manipulations. Synapse, 69.9, 641-474.
+Binkley, K. A., **Webber, E. S.**, Powers, D. D., & and Cromwell, H. C. (2014). Emotion and relative reward processing: An investigation on instrumental successive negative contrast and ultrasonic vocalizations in the rat. Behavioral Processes, 107, 167-174. [Link](https://pubmed.ncbi.nlm.nih.gov/25150068/)
 &nbsp;
 
-
-Garfield, A.S., Li, C., Madara, J.C., Shah, B.P., **Webber, E.**, Steger, J.S., Campbell, J.N., Gavrilova, O., Lee, C.E., Olson, D.P., Elmquist, J.K., Tannous, B.A., Krashes, M.J., Lowell, B.B. (2015). A neural basis for melanocortin-4 receptor regulated appetite. Nature Neuroscience,18(6), 863-871.
+**Webber, E.S.**, Mankin, D., McGraw, J., Beckwith, T.J., Cromwell, H.C. (2013). Ultrasonic vocalizations, predictability and sensorimotor gating in the rat. Behavioural Brain Research, 253, 32-41. [Link](https://pubmed.ncbi.nlm.nih.gov/25150068/)
 &nbsp;
 
+**Webber, E.S.**, Harmon, K.M., Beckwith, T.J., Pena, S., Burgdorf, J., Panksepp, J., Cromwell, H.C. (2012). Selective breeding for 50 kHz ultrasonic vocalization emission produces alterations in the ontogeny and regulation of rough-and-tumble play. Behavioural Brain Research, 229(1), 138-144. [Link](https://pubmed.ncbi.nlm.nih.gov/22266925/)
 
-**Webber, E.S.**, Chambers, N., Kostek, J., Mankin, D., Cromwell, H.C. (2015). Relative reward effects on operant behavior: incentive contrast, induction and variety effects.  Behavioral Processes, 116, 87-99.
-&nbsp;
-
-
-Denis, G.P.R., Joly-Amado, **Webber, E.S.**, A., Castel, J., Cansell, D., Delbes, A., Lacombe, A., Rouch, D., Kassis, N., Langlet, F., Dehouck, B., Fehrentz, J., Martinez, J., Verdie, P., Hnasko, T.S., Magnan, C., Krashes, M.J., Luquet, S.H. (2016).  Palatability drives feeding independent of AgRP neurons. Cell Metabolism, 22(4), 646-657.
-&nbsp;
-
-
-Binkley, K. A., **Webber, E. S.**, Powers, D. D., & and Cromwell, H. C. (2014). Emotion and relative reward processing: An investigation on instrumental successive negative contrast and ultrasonic vocalizations in the rat. Behavioral Processes, 107, 167-174.
-&nbsp;
-
-
-**Webber, E.S.**, Mankin, D., McGraw, J., Beckwith, T.J., Cromwell, H.C. (2013). Ultrasonic vocalizations, predictability and sensorimotor gating in the rat. Behavioural Brain Research, 253, 32-41. 
-&nbsp;
-
-
-**Webber, E.S.**, Harmon, K.M., Beckwith, T.J., Pena, S., Burgdorf, J., Panksepp, J., Cromwell, H.C. (2012). Selective breeding for 50 kHz ultrasonic vocalization emission produces alterations in the ontogeny and regulation of rough-and-tumble play. Behavioural Brain Research, 229(1), 138-144.  
-
-
-J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwell, R.J. Servatius, & K.C.H. Pang (2009). Wistar-Kyoto rats as an animal model of anxiety vulnerability: Support for a hyper-vigilance hypothesis. Behavioral Brain Research, 201(4), 162-168.  
+J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwell, R.J. Servatius, & K.C.H. Pang (2009). Wistar-Kyoto rats as an animal model of anxiety vulnerability: Support for a hyper-vigilance hypothesis. Behavioral Brain Research, 201(4), 162-168. [Link](https://pubmed.ncbi.nlm.nih.gov/22266925/)
 
 
 &nbsp;
 
 ### Peer-Reviewed Abstracts
 &nbsp;
+
+Real World Experience of Contemporary Pulmonary Embolism Treatment (USCDT versus MT): Insights from Big Data Analytics (REAL-PE) (2023). Ahern R., Banerjee S., Desai K., Dadian-dodov D, **Webber E**., Omidvar S., Parikh S., TCT Conference
+
+Garofalo D, Swan JT, **Webber E**, Omidivar S, Tawadrous M, Pixton G, Landi S, Aggarwal S, Alami N, Kelley SP. (2023) Natural History of RSV Infection in Outpatient Episodes Among Adults in the United States using an EHR Data Source by COVID-19 Era.  IDWEEK - 2626 
+
+Garofalo D, Toussi S., Kudela M, Reddy P, **Webber E**, Omidivar S, Schachterle SE, Banerjee A, Tawadrous M, Alami N, Kelley SP.  (2023). Natural History of RSV Infection in Outpatient Episodes Among Children in the United States using Two EHR Data Sources by COVID-19 Era.  IDWEEK – 2627 
 
 **E.S. Webber** & M.J. Krashes (2014). Melanocortin-4 receptor in satiety and hunger: Influence from limbic regions.  Program number 834.11/PP3 2014 Abstracts Viewer/Itinerary Planner, Washington DC, Society for Neuroscience 2014 CD-ROM
 

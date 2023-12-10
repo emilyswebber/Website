@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Other Publications 
 &nbsp;
 &nbsp;
-In my free time I like to write outside of the realm of peer-review.  I write career materials, short stories and science fiction novels. They are self-published on Amazon. 
+In my free time I like to write outside of the realm of peer-review.  I write short stories and science fiction novels. They are self-published on Amazon. 
 &nbsp;
 &nbsp;  
 
@@ -23,11 +23,11 @@ In my free time I like to write outside of the realm of peer-review.  I write ca
 Available for purchase and download [here](https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&qid=1546267319&sr=8-1&keywords=mettle+illustrated).
 &nbsp; 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/BB1.png)](https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&qid=1546267319&sr=8-1&keywords=mettle+illustrated)
+[![](/Users/emilywebber/Dropbox/website_2023/Website/BB1.PNG)](https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&qid=1546267319&sr=8-1&keywords=mettle+illustrated)
 
 
 &nbsp; 
-***These stories are quick to read and leave a lot to the imagination. But beware, they are not for the faint of heart...***
+***These stories are quick to read and leave a lot to the imagination.***
 &nbsp; 
 
 Humans ended up in a complicated love affair with their technology, so much so that they gave them something sacred. Each Genesis unit was given a living, beating, bleeding human heart. The only possible eventuality was total war. 
@@ -44,7 +44,7 @@ Both humans and androids are left lost amongst each other, seeking to find thems
 Available for purchase and download [here](https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&qid=1536264789&sr=8-1&keywords=the+travelers+dagger).
 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/TD.jpg)](https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&qid=1536264789&sr=8-1&keywords=the+travelers+dagger)
+[![](/Users/emilywebber/Dropbox/website_2023/Website/TD.jpg)](https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&qid=1536264789&sr=8-1&keywords=the+travelers+dagger)
 &nbsp;
 &nbsp;
 
@@ -66,7 +66,7 @@ Powerful cults conspire against Rameses in the north and an ancient grudge fuels
 Available for purchase and download [here](https://www.amazon.com/Dangerously-Human-S-Webber/dp/198064859X/ref=sr_1_1?ie=UTF8&qid=1522607711&sr=8-1&keywords=dangerously+human).
 
 &nbsp;
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/b1.jpg)](https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&qid=1522038336&sr=8-1&keywords=dangerously+human)
+[![](/Users/emilywebber/Dropbox/website_2023/Website/b1.jpg)](https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&qid=1522038336&sr=8-1&keywords=dangerously+human)
 &nbsp;
 &nbsp;
 
@@ -75,28 +75,6 @@ Space is a very deadly place, a vacuum filled with colossal distances, impenetra
 Matter generators have given humanity the gift of creation but they have failed to realize its' true power. People use the technology without understanding where it came from, or how it works. 
 
 Clandestine entities from the boundless zone smuggle the required materials into the quadrants through a small but elite group of liaisons. A contract lasting generations keeps the arrangement intact. A handful of people know where to meet these aliens to acquire the mysterious substance but no one knows where they get it or why they require payment in human slaves...
-
-&nbsp;
-&nbsp;  
-
-
-### Alternative Careers in Science: A 2018 Starter's Guide to Success
-
-Available for purchase and download [here](https://www.amazon.com/Alternative-Careers-Science-Starters-Success-ebook/dp/B07KYV3SKS/ref=sr_1_5?ie=UTF8&qid=1543681825&sr=8-5&keywords=alternative+careers+in+science).
-
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/science3.jpg)](https://www.amazon.com/Alternative-Careers-Science-Starters-Success-ebook/dp/B07KYV3SKS/ref=sr_1_5?ie=UTF8&qid=1543681825&sr=8-5&keywords=alternative+careers+in+science)
-&nbsp;
-&nbsp;
-
-Designed for people who want to get off of the tenure track, but don't know how to get started. This guide was written by a neuroscientist who left research and found success in the field of Data Science & Analytics. 
-
-
-&nbsp; 
-&nbsp; 
-### Short Stories: 
-
-I also write and publish short stories on my [blog](https://eswebber.com/).
-
 
 &nbsp;
 &nbsp;
@@ -110,15 +88,15 @@ When I am not working or writing, you can find me training at my local gym.  I h
 &nbsp;  
 I was awarded my blue belt! 
 
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/bluebelt1.jpg)
+![](bluebelt1.jpg)
 &nbsp;  
 
 After some well-intentioned hazing...
 &nbsp;  
 &nbsp;  
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/SharkTank.jpg)
+![](SharkTank.jpg)
 &nbsp; 
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/bluebelt2.jpg)
+![](bluebelt2.jpg)
 
 
 &nbsp;  
@@ -130,10 +108,51 @@ After some well-intentioned hazing...
 
 It's sometimes hard to fit everything in, but I also like to take nature pictures.
 
+Here are some pictures from Mauii (2021)
+&nbsp;  
+
+
+![](/Users/emilywebber/Dropbox/website_2023/Website/maui1.jpg)
+&nbsp;  
+
+![](/Users/emilywebber/Dropbox/website_2023/Website/maui2.jpg)
+
+&nbsp;  
+The Grand Canyon (2022)
+&nbsp;  
+
+![](/Users/emilywebber/Dropbox/website_2023/Website/grandcanyon.jpg)
+
+
+&nbsp;  
+Beautiful Oregon (2019-Present)
+&nbsp;  
+
+![](/Users/emilywebber/Dropbox/website_2023/Website/Bend2.jpg)
+
+
+&nbsp;  
+![](/Users/emilywebber/Dropbox/website_2023/Website/gorge.jpg)
+
+&nbsp;  
+
+![](/Users/emilywebber/Dropbox/website_2023/Website/Bend.jpg)
+&nbsp;  
+Alaska 
+&nbsp;  
+
+![](/Users/emilywebber/Dropbox/website_2023/Website/alaska2.jpg)
+
+&nbsp;  
+![](/Users/emilywebber/Dropbox/website_2023/Website/alaska1.jpg)
+
+
+
 Here is a panorama that I took in the Rocky Mountains at 14,000 feet!
 &nbsp;  
 
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/PanoDo.jpg)
+![](/Users/emilywebber/Dropbox/website_2023/Website/PanoDo.jpg)
+
 &nbsp;  
 &nbsp;  
 
@@ -141,10 +160,10 @@ Here are some I took at Yellowstone National Park.
 &nbsp;  
 &nbsp;  
 
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/yellow.jpg)
+![](yellow.jpg)
 &nbsp;  
 
-![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/yellow2.jpg)
+![](yellow2.jpg)
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />

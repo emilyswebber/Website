@@ -19,7 +19,7 @@ In my free time I like to find an analyze publically available data, these proje
 
 I did an analysis as a proof of concept regarding machine learning models and how one would calculate something analogous to a p-value in statistics.  I also experimented a bit with non-parametric confidence intervals. 
 
- [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/ML_Chance.PNG)](https://emilyswebber.github.io/ML_Chance/)
+ [![](/Users/emilywebber/Dropbox/website_2023/Website/ML_Chance.PNG)](https://emilyswebber.github.io/ML_Chance/)
 
 &nbsp;
 
@@ -33,7 +33,7 @@ I did an analysis as a proof of concept regarding machine learning models and ho
 
  Click on the image below to be taken to a proof of concept.
  
- [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/voc.PNG)](https://emilyswebber.github.io/Sound_ML/)
+ [![](/Users/emilywebber/Dropbox/website_2023/Website/voc.PNG)](https://emilyswebber.github.io/Sound_ML/)
 
 &nbsp;
 
@@ -47,7 +47,7 @@ I did an analysis as a proof of concept regarding machine learning models and ho
 
  Click on the image below to be taken to a general overview and exploratory analysis of Logarithmic Loss - an error term used in classification models. 
  
- [![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/LogLoss.PNG)](https://emilyswebber.github.io/LogLoss/)
+ [![](/Users/emilywebber/Dropbox/website_2023/Website/LogLoss.PNG)](https://emilyswebber.github.io/LogLoss/)
 
 &nbsp;
 
@@ -61,7 +61,7 @@ I did an analysis as a proof of concept regarding machine learning models and ho
 
 Below you can find an interactive dashboard that allows you to explore the top NIH grants (over $650k) by Institute, Organization and project name. 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/NIH.PNG)](https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1)
+[![](/Users/emilywebber/Dropbox/website_2023/Website/NIH.PNG)](https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1)
 &nbsp;
 
 ## The 113th National Congress
@@ -96,37 +96,6 @@ An analaysis of UFC data from 1993-2016.
 Original data can be found [here](https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/). All R code for this and other projects can be found on my [GitHub](https://github.com/emilyswebber) site. 
 &nbsp;
 
-
-&nbsp;
-
-## Unemployment and Immigration: Did they 'took our jobs'?
-
-
-[Show Me the Data!](https://emilyswebber.github.io/PopulationData/index.html)
-&nbsp;
-2.20.2017
-&nbsp;
-
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Population.PNG)](https://emilyswebber.github.io/PopulationData/) 
-
-&nbsp;
-
-There has been a lot of talk of immigration and the job market recently, so I thought I'd take a quick look to see what the data says about this. 
-
-Data was obtained from a variety of sources:
-
-[GitHub site](https://github.com/emilyswebber)
-&nbsp;
-[Census](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) (Table S0501: single year 2009-2015)
-&nbsp;
-[Illegal Immigration](http://immigration.procon.org/view.resource.php?resourceID=000844)
-&nbsp;
-[State Immigration](http://www.census.gov/data/datasets/2016/demo/popest/nation-total.html)
-&nbsp;
-[2016 State Unemployment Rates](https://www.bls.gov/web/laus/laumstrk.htm)  
-&nbsp;
-[2014 Violent Crime Rates](http://www.worldatlas.com/articles/the-most-dangerous-states-in-the-u-s.html)
-
 ## Crime incidents in Portland, Oregon during 2014
 
 [Show Me the Data!](https://emilyswebber.github.io/Portland_Crime_2014/)
@@ -134,7 +103,7 @@ Data was obtained from a variety of sources:
 1.30.2017
 &nbsp;
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Crime.png)](https://emilyswebber.github.io/Portland_Crime_2014/) 
+[![](/Users/emilywebber/Dropbox/website_2023/Website/Crime.png)](https://emilyswebber.github.io/Portland_Crime_2014/) 
 
 &nbsp;
 
@@ -152,7 +121,7 @@ This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and 
 &nbsp;
 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/Single.png)](https://emilyswebber.github.io/Single_People/) 
+[![](/Users/emilywebber/Dropbox/website_2023/Website/Single.png)](https://emilyswebber.github.io/Single_People/) 
 
 
 &nbsp;
@@ -162,9 +131,6 @@ A friend of mine recently asked me what seemed like a fairly simple question: wh
 This document displays data taken from publicly available 2014 census records. Here is a link to get started with Census data [here](https://www.factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml).
 
 
-
-
-[Like this on Facebook!](https://www.facebook.com/RLData/)
 
 
 **All of the data, R code and other information presented here can be found on my [github site](https://github.com/emilyswebber).** 

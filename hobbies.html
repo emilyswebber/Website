@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,22 +13,36 @@
 
 <title>Hobbies</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -42,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -78,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -98,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -181,11 +142,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,13 +175,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -211,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,6 +203,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -263,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -301,7 +272,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -313,48 +284,84 @@ $(document).ready(function () {
 <hr />
 <div id="other-publications" class="section level2">
 <h2>Other Publications</h2>
-<p>    In my free time I like to write outside of the realm of peer-review. I write career materials, short stories and science fiction novels. They are self-published on Amazon.    </p>
+<p>    In my free time I like to write outside of the realm of
+peer-review. I write short stories and science fiction novels. They are
+self-published on Amazon.    </p>
 <p> </p>
 <div id="mettle-an-illustrated-miniseries" class="section level3">
 <h3>Mettle: an illustrated miniseries</h3>
-<p>Available for purchase and download <a href="https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&amp;qid=1546267319&amp;sr=8-1&amp;keywords=mettle+illustrated">here</a>.  </p>
-<p><a href="https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&amp;qid=1546267319&amp;sr=8-1&amp;keywords=mettle+illustrated"><img src="BB1.PNG" /></a></p>
-<p>  <strong><em>These stories are quick to read and leave a lot to the imagination. But beware, they are not for the faint of heart…</em></strong>  </p>
-<p>Humans ended up in a complicated love affair with their technology, so much so that they gave them something sacred. Each Genesis unit was given a living, beating, bleeding human heart. The only possible eventuality was total war.  </p>
-<p>The Great Sorrow ended in a catastrophic loss of human life and tore open a gaping rift between man and machine. The Genesis units seek forgiveness because they think in it they will find their salvation - but humans have little to give in the aftermath of near extinction.  </p>
-<p>Both humans and androids are left lost amongst each other, seeking to find themselves in a new natural order. They each have their wounds and they each have their story - but the androids have only one collective soul. Can they come to terms with their past, and design a future worth living for all?    </p>
+<p>Available for purchase and download <a
+href="https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&amp;qid=1546267319&amp;sr=8-1&amp;keywords=mettle+illustrated">here</a>.
+ </p>
+<p><a
+href="https://www.amazon.com/Mettle-Reconstruction-Emily-S-Webber-ebook/dp/B07L1YJ7P1/ref=sr_1_1?ie=UTF8&amp;qid=1546267319&amp;sr=8-1&amp;keywords=mettle+illustrated"><img
+src="BB1.PNG" /></a></p>
+<p>  <strong><em>These stories are quick to read and leave a lot to the
+imagination.</em></strong>  </p>
+<p>Humans ended up in a complicated love affair with their technology,
+so much so that they gave them something sacred. Each Genesis unit was
+given a living, beating, bleeding human heart. The only possible
+eventuality was total war.  </p>
+<p>The Great Sorrow ended in a catastrophic loss of human life and tore
+open a gaping rift between man and machine. The Genesis units seek
+forgiveness because they think in it they will find their salvation -
+but humans have little to give in the aftermath of near extinction.
+ </p>
+<p>Both humans and androids are left lost amongst each other, seeking to
+find themselves in a new natural order. They each have their wounds and
+they each have their story - but the androids have only one collective
+soul. Can they come to terms with their past, and design a future worth
+living for all?    </p>
 </div>
 <div id="alien-tombs-series" class="section level3">
 <h3>Alien Tombs Series</h3>
-<p>Available for purchase and download <a href="https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&amp;qid=1536264789&amp;sr=8-1&amp;keywords=the+travelers+dagger">here</a>.</p>
-<p><a href="https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&amp;qid=1536264789&amp;sr=8-1&amp;keywords=the+travelers+dagger"><img src="TD.jpg" /></a>    </p>
-<p>The great Pharaoh Rameses II rules over Egypt with a golden hand. The people prosper and there is peace along the Nile - or at least, that is how it appears.</p>
-<p>Powerful cults conspire against Rameses in the north and an ancient grudge fuels the flame. Nebi and his family get swept into a devious plot to kill the Pharaoh. His father, a Mason, is accused of a terrible crime and Nebi is forced to run for his freedom. He stumbles onto an ancient object that changes everything. He follows its’ call to the Valley of the Kings and learns a shocking history of his people.<br />
+<p>Available for purchase and download <a
+href="https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&amp;qid=1536264789&amp;sr=8-1&amp;keywords=the+travelers+dagger">here</a>.</p>
+<p><a
+href="https://www.amazon.com/Travelers-Dagger-Alien-Tombs-Book-ebook/dp/B07G6SQF7G/ref=sr_1_1?ie=UTF8&amp;qid=1536264789&amp;sr=8-1&amp;keywords=the+travelers+dagger"><img
+src="TD.jpg" /></a>  
+ </p>
+<p>The great Pharaoh Rameses II rules over Egypt with a golden hand. The
+people prosper and there is peace along the Nile - or at least, that is
+how it appears.</p>
+<p>Powerful cults conspire against Rameses in the north and an ancient
+grudge fuels the flame. Nebi and his family get swept into a devious
+plot to kill the Pharaoh. His father, a Mason, is accused of a terrible
+crime and Nebi is forced to run for his freedom. He stumbles onto an
+ancient object that changes everything. He follows its’ call to the
+Valley of the Kings and learns a shocking history of his people.<br />
    </p>
 <p>   </p>
 </div>
 <div id="dangerously-human" class="section level3">
 <h3>Dangerously Human</h3>
-<p>    Available for purchase and download <a href="https://www.amazon.com/Dangerously-Human-S-Webber/dp/198064859X/ref=sr_1_1?ie=UTF8&amp;qid=1522607711&amp;sr=8-1&amp;keywords=dangerously+human">here</a>.</p>
-<p>  <a href="https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&amp;qid=1522038336&amp;sr=8-1&amp;keywords=dangerously+human"><img src="b1.jpg" /></a>    </p>
-<p>Space is a very deadly place, a vacuum filled with colossal distances, impenetrable darkness and blazing balls of fire. Humans have spread so far throughout the four quadrants that they have lost touch with their origins.</p>
-<p>Matter generators have given humanity the gift of creation but they have failed to realize its’ true power. People use the technology without understanding where it came from, or how it works.</p>
-<p>Clandestine entities from the boundless zone smuggle the required materials into the quadrants through a small but elite group of liaisons. A contract lasting generations keeps the arrangement intact. A handful of people know where to meet these aliens to acquire the mysterious substance but no one knows where they get it or why they require payment in human slaves…</p>
-<p>   </p>
-</div>
-<div id="alternative-careers-in-science-a-2018-starters-guide-to-success" class="section level3">
-<h3>Alternative Careers in Science: A 2018 Starter’s Guide to Success</h3>
-<p>Available for purchase and download <a href="https://www.amazon.com/Alternative-Careers-Science-Starters-Success-ebook/dp/B07KYV3SKS/ref=sr_1_5?ie=UTF8&amp;qid=1543681825&amp;sr=8-5&amp;keywords=alternative+careers+in+science">here</a>.</p>
-<p><a href="https://www.amazon.com/Alternative-Careers-Science-Starters-Success-ebook/dp/B07KYV3SKS/ref=sr_1_5?ie=UTF8&amp;qid=1543681825&amp;sr=8-5&amp;keywords=alternative+careers+in+science"><img src="science3.jpg" /></a>    </p>
-<p>Designed for people who want to get off of the tenure track, but don’t know how to get started. This guide was written by a neuroscientist who left research and found success in the field of Data Science &amp; Analytics.</p>
-<p>    ### Short Stories:</p>
-<p>I also write and publish short stories on my <a href="https://eswebber.com/">blog</a>.</p>
+<p>    Available for purchase and download <a
+href="https://www.amazon.com/Dangerously-Human-S-Webber/dp/198064859X/ref=sr_1_1?ie=UTF8&amp;qid=1522607711&amp;sr=8-1&amp;keywords=dangerously+human">here</a>.</p>
+<p>  <a
+href="https://www.amazon.com/Dangerously-Human-Emily-S-Webber-ebook/dp/B00PNWFYY2/ref=sr_1_1?ie=UTF8&amp;qid=1522038336&amp;sr=8-1&amp;keywords=dangerously+human"><img
+src="b1.jpg" /></a>  
+ </p>
+<p>Space is a very deadly place, a vacuum filled with colossal
+distances, impenetrable darkness and blazing balls of fire. Humans have
+spread so far throughout the four quadrants that they have lost touch
+with their origins.</p>
+<p>Matter generators have given humanity the gift of creation but they
+have failed to realize its’ true power. People use the technology
+without understanding where it came from, or how it works.</p>
+<p>Clandestine entities from the boundless zone smuggle the required
+materials into the quadrants through a small but elite group of
+liaisons. A contract lasting generations keeps the arrangement intact. A
+handful of people know where to meet these aliens to acquire the
+mysterious substance but no one knows where they get it or why they
+require payment in human slaves…</p>
 <p>   </p>
 </div>
 </div>
 <div id="brazilian-jiu-jitsu" class="section level2">
 <h2>Brazilian Jiu Jitsu</h2>
-<p>When I am not working or writing, you can find me training at my local gym. I have been training and competing in Brazilian Jiu Jitsu since 2015.</p>
+<p>When I am not working or writing, you can find me training at my
+local gym. I have been training and competing in Brazilian Jiu Jitsu
+since 2015.</p>
 <div id="blue-belt" class="section level3">
 <h3>Blue Belt!</h3>
 <p> <br />
@@ -370,9 +377,39 @@ I was awarded my blue belt!</p>
 <div id="nature-photography" class="section level2">
 <h2>Nature Photography</h2>
 <p> </p>
-<p>It’s sometimes hard to fit everything in, but I also like to take nature pictures.</p>
-<p>Here is a panorama that I took in the Rocky Mountains at 14,000 feet!  </p>
-<p><img src="PanoDO.jpg" />  <br />
+<p>It’s sometimes hard to fit everything in, but I also like to take
+nature pictures.</p>
+<p>Here are some pictures from Mauii (2021)  </p>
+<p><img
+src="maui1.jpg" />  </p>
+<p><img
+src="maui2.jpg" /></p>
+<p> <br />
+The Grand Canyon (2022)  </p>
+<p><img
+src="grandcanyon.jpg" /></p>
+<p> <br />
+Beautiful Oregon (2019-Present)  </p>
+<p><img
+src="Bend2.JPG" /></p>
+<p> <br />
+<img
+src="gorge.JPG" /></p>
+<p> </p>
+<p><img
+src="Bend.JPG" />
+ <br />
+Alaska  </p>
+<p><img
+src="alaska2.jpg" /></p>
+<p> <br />
+<img
+src="alaska1.jpg" /></p>
+<p>Here is a panorama that I took in the Rocky Mountains at 14,000 feet!
+ </p>
+<p><img
+src="PanoDO.jpg" /></p>
+<p> <br />
  </p>
 <p>Here are some I took at Yellowstone National Park.  <br />
  </p>
@@ -402,7 +439,7 @@ I was awarded my blue belt!</p>
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -420,7 +457,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

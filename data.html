@@ -1,35 +1,48 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>data.utf8</title>
+<title>data.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -42,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -78,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -98,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -181,11 +142,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,13 +175,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -211,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,6 +203,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -263,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -301,7 +272,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -310,81 +281,121 @@ $(document).ready(function () {
 
 
 <p>     </p>
-<p>In my free time I like to find an analyze publically available data, these projects are just a fun way that I like to build my skills.</p>
+<p>In my free time I like to find an analyze publically available data,
+these projects are just a fun way that I like to build my skills.</p>
 <p>   </p>
-<div id="machine-learning-and-statistics-a-reconciliation" class="section level2">
+<div id="machine-learning-and-statistics-a-reconciliation"
+class="section level2">
 <h2>Machine Learning and Statistics: a reconciliation</h2>
 <p><em>Machine Learning, P-values &amp; Confidence Intervals</em></p>
-<p><a href="https://emilyswebber.github.io/ML_Chance/index.html">Show Me the Data!</a> 10.19.2019</p>
-<p>I did an analysis as a proof of concept regarding machine learning models and how one would calculate something analogous to a p-value in statistics. I also experimented a bit with non-parametric confidence intervals.</p>
-<p><a href="https://emilyswebber.github.io/ML_Chance/"><img src="ML_Chance.png" /></a></p>
+<p><a href="https://emilyswebber.github.io/ML_Chance/index.html">Show Me
+the Data!</a> 10.19.2019</p>
+<p>I did an analysis as a proof of concept regarding machine learning
+models and how one would calculate something analogous to a p-value in
+statistics. I also experimented a bit with non-parametric confidence
+intervals.</p>
+<p><a href="https://emilyswebber.github.io/ML_Chance/"><img
+src="ML_Chance.png" /></a></p>
 <p> </p>
 </div>
 <div id="the-cats-meow" class="section level2">
 <h2>The Cat’s Meow</h2>
 <p><em>Classifying mammalian vocalizations using R</em></p>
-<p><a href="https://emilyswebber.github.io/Sound_ML/">Show Me the Data!</a>   10.06.2019  </p>
+<p><a href="https://emilyswebber.github.io/Sound_ML/">Show Me the
+Data!</a>   10.06.2019  </p>
 <p>Click on the image below to be taken to a proof of concept.</p>
-<p><a href="https://emilyswebber.github.io/Sound_ML/"><img src="voc.png" /></a></p>
+<p><a href="https://emilyswebber.github.io/Sound_ML/"><img
+src="voc.png" /></a></p>
 <p> </p>
 </div>
 <div id="logarithmic-loss" class="section level2">
 <h2>Logarithmic Loss</h2>
-<p><a href="https://emilyswebber.github.io/LogLoss/">Show Me the Data!</a>   08.24.2019  </p>
-<p>Click on the image below to be taken to a general overview and exploratory analysis of Logarithmic Loss - an error term used in classification models.</p>
-<p><a href="https://emilyswebber.github.io/LogLoss/"><img src="LogLoss.png" /></a></p>
+<p><a href="https://emilyswebber.github.io/LogLoss/">Show Me the
+Data!</a>   08.24.2019  </p>
+<p>Click on the image below to be taken to a general overview and
+exploratory analysis of Logarithmic Loss - an error term used in
+classification models.</p>
+<p><a href="https://emilyswebber.github.io/LogLoss/"><img
+src="LogLoss.png" /></a></p>
 <p> </p>
 </div>
 <div id="active-nih-grants" class="section level2">
 <h2>Active NIH Grants</h2>
-<p><a href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1">Show Me the Data!</a>   08.04.2019  </p>
-<p>Below you can find an interactive dashboard that allows you to explore the top NIH grants (over $650k) by Institute, Organization and project name.</p>
-<p><a href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1"><img src="NIH.png" /></a>  </p>
+<p><a
+href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1">Show
+Me the Data!</a>   08.04.2019  </p>
+<p>Below you can find an interactive dashboard that allows you to
+explore the top NIH grants (over $650k) by Institute, Organization and
+project name.</p>
+<p><a
+href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/NIHGrants2019/Dashboard1"><img
+src="NIH.png" /></a>
+ </p>
 </div>
 <div id="the-113th-national-congress" class="section level2">
 <h2>The 113th National Congress</h2>
-<p><a href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1">Show Me the Data!</a>   11.04.2018  </p>
-<p>I created an interactive dashboard that allows you to explore exactly what the 113th national congress was able to accomplish. There is an overview of bills proposed, by what party and the outcomes. There is also an analysis that examines the productivity of both bodies througout the year.</p>
-<p>For a deeper dive, there is an exportable table that gives the details of the bills you segmented with the filters. Enjoy!</p>
-<p><a href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1"><img src="congress.PNG" /></a>  </p>
-<p>Tableau has a variety of sample public datasets to play around with. You can find them <a href="https://public.tableau.com/en-us/s/resources">here</a>.</p>
+<p><a
+href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1">Show
+Me the Data!</a>   11.04.2018  </p>
+<p>I created an interactive dashboard that allows you to explore exactly
+what the 113th national congress was able to accomplish. There is an
+overview of bills proposed, by what party and the outcomes. There is
+also an analysis that examines the productivity of both bodies througout
+the year.</p>
+<p>For a deeper dive, there is an exportable table that gives the
+details of the bills you segmented with the filters. Enjoy!</p>
+<p><a
+href="https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1"><img
+src="/Users/emily.webber/Dropbox/Website%20Dropbox%202/Website/congress.PNG" /></a>
+ </p>
+<p>Tableau has a variety of sample public datasets to play around with.
+You can find them <a
+href="https://public.tableau.com/en-us/s/resources">here</a>.</p>
 </div>
 <div id="mixed-martial-analytics" class="section level2">
 <h2>Mixed Martial Analytics</h2>
-<p><a href="https://emilyswebber.github.io/MMA/">Show Me the Data!</a>   5.25.2017  </p>
-<p><a href="https://emilyswebber.github.io/MMA/"><img src="image3.PNG" /></a></p>
+<p><a href="https://emilyswebber.github.io/MMA/">Show Me the Data!</a>  
+5.25.2017  </p>
+<p><a href="https://emilyswebber.github.io/MMA/"><img
+src="/Users/emily.webber/Dropbox/Website%20Dropbox%202/Website/image3.PNG" /></a></p>
 <p>An analaysis of UFC data from 1993-2016.</p>
-<p>Original data can be found <a href="https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/">here</a>. All R code for this and other projects can be found on my <a href="https://github.com/emilyswebber">GitHub</a> site.  </p>
-<p> </p>
+<p>Original data can be found <a
+href="https://www.reddit.com/r/datasets/comments/47a7wh/ufc_fights_and_fighter_data/">here</a>.
+All R code for this and other projects can be found on my <a
+href="https://github.com/emilyswebber">GitHub</a> site.  </p>
 </div>
-<div id="unemployment-and-immigration-did-they-took-our-jobs" class="section level2">
-<h2>Unemployment and Immigration: Did they ‘took our jobs’?</h2>
-<p><a href="https://emilyswebber.github.io/PopulationData/index.html">Show Me the Data!</a>   2.20.2017  </p>
-<p><a href="https://emilyswebber.github.io/PopulationData/"><img src="Population.PNG" /></a></p>
-<p> </p>
-<p>There has been a lot of talk of immigration and the job market recently, so I thought I’d take a quick look to see what the data says about this.</p>
-<p>Data was obtained from a variety of sources:</p>
-<p><a href="https://github.com/emilyswebber">GitHub site</a>   <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">Census</a> (Table S0501: single year 2009-2015)   <a href="http://immigration.procon.org/view.resource.php?resourceID=000844">Illegal Immigration</a>   <a href="http://www.census.gov/data/datasets/2016/demo/popest/nation-total.html">State Immigration</a>   <a href="https://www.bls.gov/web/laus/laumstrk.htm">2016 State Unemployment Rates</a><br />
-  <a href="http://www.worldatlas.com/articles/the-most-dangerous-states-in-the-u-s.html">2014 Violent Crime Rates</a></p>
-</div>
-<div id="crime-incidents-in-portland-oregon-during-2014" class="section level2">
+<div id="crime-incidents-in-portland-oregon-during-2014"
+class="section level2">
 <h2>Crime incidents in Portland, Oregon during 2014</h2>
-<p><a href="https://emilyswebber.github.io/Portland_Crime_2014/">Show Me the Data!</a>   1.30.2017  </p>
-<p><a href="https://emilyswebber.github.io/Portland_Crime_2014/"><img src="Crime.PNG" /></a></p>
+<p><a href="https://emilyswebber.github.io/Portland_Crime_2014/">Show Me
+the Data!</a>   1.30.2017  </p>
+<p><a href="https://emilyswebber.github.io/Portland_Crime_2014/"><img
+src="Crime.PNG" /></a></p>
 <p> </p>
-<p>The data presented in this document is public data and can be found <a href="http://www.civicapps.org/datasets/crime-incidents-2014">here</a></p>
-<p>This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex offenses and Rape.</p>
+<p>The data presented in this document is public data and can be found
+<a
+href="http://www.civicapps.org/datasets/crime-incidents-2014">here</a></p>
+<p>This report focused on: Drug offenses, Assault, Robbery, DUIs, Sex
+offenses and Rape.</p>
 <p> </p>
 </div>
 <div id="where-are-all-of-the-single-people" class="section level2">
 <h2>Where are all of the single people?</h2>
-<p><a href="https://emilyswebber.github.io/Single_People/">Show Me the Data!</a>   1.30.2017  </p>
-<p><a href="https://emilyswebber.github.io/Single_People/"><img src="Single.PNG" /></a></p>
+<p><a href="https://emilyswebber.github.io/Single_People/">Show Me the
+Data!</a>   1.30.2017  </p>
+<p><a href="https://emilyswebber.github.io/Single_People/"><img
+src="Single.PNG" /></a></p>
 <p> </p>
-<p>A friend of mine recently asked me what seemed like a fairly simple question: where are all of the single men? I was working with census data for my work, so I decided to look into it and share the results!</p>
-<p>This document displays data taken from publicly available 2014 census records. Here is a link to get started with Census data <a href="https://www.factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml">here</a>.</p>
-<p><a href="https://www.facebook.com/RLData/">Like this on Facebook!</a></p>
-<p><strong>All of the data, R code and other information presented here can be found on my <a href="https://github.com/emilyswebber">github site</a>.</strong></p>
+<p>A friend of mine recently asked me what seemed like a fairly simple
+question: where are all of the single men? I was working with census
+data for my work, so I decided to look into it and share the
+results!</p>
+<p>This document displays data taken from publicly available 2014 census
+records. Here is a link to get started with Census data <a
+href="https://www.factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml">here</a>.</p>
+<p><strong>All of the data, R code and other information presented here
+can be found on my <a href="https://github.com/emilyswebber">github
+site</a>.</strong></p>
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />
@@ -416,7 +427,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -434,7 +445,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

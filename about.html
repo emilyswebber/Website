@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>about.utf8</title>
+<title>about.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -78,13 +68,8 @@ h6 {
   margin-left: auto;
   margin-right: auto;
 }
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -181,11 +142,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,13 +175,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -211,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,6 +203,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -244,18 +215,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -275,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -313,7 +272,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -326,12 +285,82 @@ $(document).ready(function () {
 <p> </p>
 <div id="an-interdisciplinary-adventure" class="section level3">
 <h3>An interdisciplinary adventure</h3>
-<p>  <img src="DR.jpg" /></p>
+<p>  <img
+src="datapic.jpg" /></p>
 <p>   </p>
-<p>My journey with data started when I was a neuroscientist. I completed my Ph.D. within an interdisciplinary department that bridged biological, psychological and philosophical ideas. This is where I really started learning about data, statistics and the art of using numbers to glean insight. Specifically, I studied how the brain processed relative values of rewards by recording from neurons in live and behaving animals. I recorded neural activity on 16 channels simultaneously, and the equipment sampled the data at a rate of 40,000 times per second. This resulted in a lot of data. Some of this was signal, but most of it was noise. Figuring out how to make this data usable was a wonderful challenge. I decided that learning how to code was the best way forward, so I taught myself how to use a programming language called Matlab. I separated the signal (neural firing) from the noise using principal component analyses, and conducted a massive statistical inquiry that ultimately revealed key insights into how the brain compares one reward with another (Webber and colleagues, 2016).</p>
-<p>I loved the interdisciplinary aspect of my graduate work, so an interdisciplinary Postdoctoral Fellowship seemed like a natural next step. I applied for and won a position at the National Institutes of Diabetes, Digestive and Kidney Diseases (NIDDK) at the National Institutes of Health (NIH). Here I studied how the feeling of hunger is generated in the brain. This was a world class opportunity and an outstanding experience. I learned how to do a amazing things at the NIH, like a how to turn neurons on and off using light. While completing my Postdoctoral Fellowship I had the realization that working with data was my favorite part about being a scientist. So, when my contract was up I decided focus my career on data science.</p>
-<p>It was a daunting idea to switch fields, but I found an outstanding opportunity as the Assistant Director of Analytics for the OHSU Foundation. The Foundation had started using analytics in their development efforts, but needed someone who knew about statistics and modeling to come in and take it to the next level. They offered me the opportunity to build an analytics program for the Foundation, and I was thrilled to accept. In his role I used statistics, modeling and analytics to help raise money for biomedical research, which is a mission that will always be close to my heart. I had the privilege to support amazing individuals who raise money for research that aims to end cancer, HIV/AIDs, blindness and neurodegenerative diseases.</p>
-<p>From my experience with data science and philanthropy, I learned what a powerful agent for change that machine learning can really be. I decided that I wanted to dedicate my career to helping people who want to use machine learning to change the world. I found the perfect opportunity to do this at DataRobot. DataRobot is an automated machine learning platform that makes cutting edge machine learning accessible to everyone. This includes businesses, nonprofits and other institutions. DataRobot is a perfect blend of data science, people and success. I hope to be here for a very long time!</p>
+<p>My journey with data started when I was a neuroscientist. I completed
+my Ph.D. within an interdisciplinary department that bridged biological,
+psychological and philosophical ideas. This is where I really started
+learning about data, statistics and the art of using numbers to glean
+insight. Specifically, I studied how the brain processed relative values
+of rewards by recording from neurons in live and behaving animals. I
+recorded neural activity on 16 channels simultaneously, and the
+equipment sampled the data at a rate of 40,000 times per second. This
+resulted in a lot of data. Some of this was signal, but most of it was
+noise. Figuring out how to make this data usable was a wonderful
+challenge. I decided that learning how to code was the best way forward,
+so I taught myself how to use a programming language called Matlab. I
+separated the signal (neural firing) from the noise using principal
+component analyses, and conducted a massive statistical inquiry that
+ultimately revealed key insights into how the brain compares one reward
+with another (Webber and colleagues, 2016).</p>
+<p>  <img
+src="PPE.jpg" />  </p>
+<p>I loved the interdisciplinary aspect of my graduate work, so an
+interdisciplinary Postdoctoral Fellowship seemed like a natural next
+step. I applied for and won a position at the National Institutes of
+Diabetes, Digestive and Kidney Diseases (NIDDK) at the National
+Institutes of Health (NIH). Here I studied how the feeling of hunger is
+generated in the brain. This was a world class opportunity and an
+outstanding experience. I learned how to do a amazing things at the NIH,
+like a how to turn neurons on and off using light. While completing my
+Postdoctoral Fellowship I had the realization that working with data was
+my favorite part about being a scientist. So, when my contract was up I
+decided focus my career on data science.</p>
+<p>  <img
+src="use_interview.jpg" />
+ </p>
+<p>It was a daunting idea to switch fields, but I found an outstanding
+opportunity as the Assistant Director of Analytics for the OHSU
+Foundation. The Foundation had started using analytics in their
+development efforts, but needed someone who knew about statistics and
+modeling to come in and take it to the next level. They offered me the
+opportunity to build an analytics program for the Foundation, and I was
+thrilled to accept. In his role I used statistics, modeling and
+analytics to help raise money for biomedical research, which is a
+mission that will always be close to my heart. I had the privilege to
+support amazing individuals who raise money for research that aims to
+end cancer, HIV/AIDs, blindness and neurodegenerative diseases.</p>
+<p>  <img
+src="DR.jpg" /> =  </p>
+<p>From my experience with data science and philanthropy, I learned what
+a powerful agent for change that machine learning can really be. I
+decided that I wanted to dedicate my career to helping people who want
+to use machine learning to change the world. I found the perfect
+opportunity to do this at DataRobot. DataRobot is an automated machine
+learning platform that makes cutting edge machine learning accessible to
+everyone. I probably learned more while working at DataRobot than during
+my Postdoc, and I learned a lot in my postdoc. I had the opportunity to
+work alongside some of the best data scientists in the world on the
+biggest challenges of that time. Specifically, I worked with HHS
+supporting the national COVID response across two White House
+admistrations. During this time I also got the opportunity to build and
+lead a COVID test exchange program, which matched up organizations that
+had a surplus of tests with those in need. This exchange program matched
+over 1,000,000 COVID tests. It consisted of a google form, and some R
+code I ran as chron jobs, but it worked.  </p>
+<p><img
+src="tct.jpeg" />  </p>
+<p>I feel like my work with COVID-19 and the White House brought my
+career full circle, back to focusing on human health. I found a very
+interesting opportunity as a Director of Life Science Research Analytics
+at Truveta. Truveta has a unique business model, as it is owned and
+governed by the Health Systems that make up Truveta’s massive, timely
+and representative EHR dataset. I get to work with this amazing resource
+every day, and help others learn how to access it as well. I love
+working at Truveta because it is the perfect blend of Mission, Data and
+Human Health. I hope I can have an impact here for many years to
+come!</p>
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />
@@ -363,7 +392,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -371,6 +400,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
