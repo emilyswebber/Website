@@ -76,7 +76,7 @@ I created an interactive dashboard that allows you to explore exactly what the 1
 For a deeper dive, there is an exportable table that gives the details of the bills you segmented with the filters.  Enjoy!
 
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/congress.PNG)](https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1)
+[![](/Users/emilywebber/Dropbox/website_2023/Website/congress.PNG)](https://public.tableau.com/profile/emily.webber2042#!/vizhome/113thCongress_9/Dashboard1)
 &nbsp;
 
 Tableau has a variety of sample public datasets to play around with.  You can find them [here](https://public.tableau.com/en-us/s/resources). 
@@ -89,7 +89,7 @@ Tableau has a variety of sample public datasets to play around with.  You can fi
 5.25.2017
 &nbsp;
 
-[![](/Users/emily.webber/Dropbox/Website Dropbox 2/Website/image3.PNG)](https://emilyswebber.github.io/MMA/)
+[![](/Users/emilywebber/Dropbox/website_2023/Website/image3.PNG)](https://emilyswebber.github.io/MMA/)
 
 An analaysis of UFC data from 1993-2016. 
 
