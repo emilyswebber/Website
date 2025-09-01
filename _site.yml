@@ -1,25 +1,20 @@
-name: "Real Life Data"
+name: "EmilySWebber"
 output_dir: "."
 navbar:
   title: "Emily S. Webber"
   left:
-    - text: "Analytical Skills"
-      href: Skills.html
+#    - text: "Skills"
+#      href: Skills.html
+    - text: "Workshops & Outreach"
+      href: PubSpeak.html
     - text: "Publications"
       href: Pubs.html
-    - text: "Public Speaking"
-      href: PubSpeak.html
     - text: "My Story"
       href: about.html
-    - text: "Fun w/ Data"
-      href: data.html
-    - text: "Hobbies"
-      href: hobbies.html
     - text: "Contact"
       href: contact.html
-encoding: UTF-8    
+encoding: UTF-8
 output:
   html_document:
-    theme: flatly
+    theme: simplex   # Options: flatly, cosmo, lux, litera, materia, minty, pulse, sandstone, spacelab, yeti
     css: style.css
-    

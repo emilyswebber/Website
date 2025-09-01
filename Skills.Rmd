@@ -1,5 +1,5 @@
 ---
-title: "Analytical Skills"
+title: "Skills"
 output: html_document
 ---
 
@@ -9,83 +9,37 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 &nbsp;
 
-**Technical  Software**
+**Team Leadership & Development** – Proven ability to build, scale, and mentor high-performing analytics teams.
 
-1. Python 
+*Built and scaled a matrixed analytics team including the hiring and training of one co-director and 10+ analysts.  This team scaled from serving 2 to 65+ customers in 3 years.*
 
-2. R/R Studio 
+**Data Science & Advanced Analytics** – Expertise in statistical modeling, machine learning, predictive analytics, and real-world data (RWD) methodologies.
 
-3. Tableau
+*Experience building real world solutions using data science and analytics across industry verticals.* 
 
-4. Github
+**Healthcare & Life Sciences Research** – Deep experience applying EHR data and RWD to clinical, regulatory, and commercial studies.
 
-5. DataRobot
+*Published several papers (in press) and 10+ conference abstracts using EHR data to answer some of healthcares most pressing questions.* 
 
-6. SPSS
+**Cross-Functional Collaboration** – Strong track record partnering with Product, Engineering, and Customer Success to drive strategic decisions.
 
+*Created an internal, company wide meeting called "Code & Tell" to showcase the work of individual contributors and share end user experience with technical and business leaders across departments.*
 
-&nbsp;
+**Client & Stakeholder Engagement** – Skilled at enabling clients to use complex data at scale, from custom analyses to enterprise solutions.
 
-**Machine Learning and Statistics**
+*Designed, built and scaled research programming using Truveta EHR data to serve some of the worlds largest life science customers.*
 
-1. Machine Learning, Ensemble Learning
+**Strategic Planning & Execution** – Experienced in aligning analytics programs with organizational objectives to deliver measurable impact.
 
-2. Parametric and Non-Parametric Statistics
+*Built a custom in-house analytics report combining data from Salesforce, Billing, and Platform usage to provide unifying intelligence into the customer experience used in a monthly "Customer Health Score".* 
 
-3. Principal Component Analysis
+**Communication & Training** – Published researcher and conference presenter; creator of training programs, webinars, online courses and other educational content for data sciencen and technical platform adoption.
 
-4. Correlation Analysis
+*See "Workshops & Outreach for more detalis!"*
 
-5. Data Visualization
+**Technical Expertise** – Hands-on experience with many programming languages and platforms. 
 
-&nbsp;
-
-**Emprical Design** 
-
-1. Framing problems within a machine learning and/or statistical context. 
-
-2. Prepping data for a variety of analyses. 
-
-3. Hypothesis testing with statistics. 
-
-&nbsp;
-
-**Other Highlights**
-
-*Experience using Electronic Health Record Data to conduct empirical studies regarding human health.*
-
-&nbsp;
-
-*Peer-reviewed publications and abstracts across industries and health verticals.*
-
-&nbsp;
-
-*Worked with the White House, Department of Health and Human Services and the Centers for Disease Control on the national response to the COVID-19 Pandemic.* 
-
-&nbsp;
-
-*Built a daily custom hospitalization model and surge classifier for the state of West Virginia's COVID-19 joint task force*  
-
-&nbsp;
-
-*Real world experience building customized analytics programs and applied machine learning models to support multibillion dollar goals.* 
-
-&nbsp;
-
-*Experience building custom technical enablement content including walkthroughs, FAQs, tutorial notebooks, videos and full courses including assessments.*
-
-&nbsp;
-
-*High level experience working with data for academic, governmental and organizational purposes.*
-
-&nbsp;
-
-*Demonstrated ability to learn relevant software and coding languages as necessary.*
-
-&nbsp;
-
-*Ability to teach technical content to individuals of varying technical background.*
-
+*Python, R, SQL, Spark, Databricks, SPSS, DataRobot, Truveta Studio.*
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 <script>

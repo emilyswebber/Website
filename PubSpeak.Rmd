@@ -1,5 +1,5 @@
 ---
-title: "Public Speaking"
+title: "Workshops & Outreach"
 output: html_document
 ---
 
@@ -7,33 +7,42 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ---
-&nbsp;
-&nbsp;
 
-
-  I have extensive public speaking experience.  I have given presentations at both national and international conferences, taught undergraduate courses on research methods, and participated in several interdisciplinary seminars throughout the course of my career.  In my current and prior role I also built out custom enablement materials including courses, videos, articles, and notebooks. Customers use these materials to learn how to achieve their goals with a technical platform. 
-  
-  I even made an appearance on the nationally televised CBS Sunday Morning Show to demonstrate how lab rats "laugh" when you tickle them.  
-	
-
-[![](/Users/emilywebber/Dropbox/Website Dropbox 2/Website/news.bmp)](http://www.cbsnews.com/news/a-surprising-look-at-rats/)
 
 &nbsp;
+
+#### **15+ years of experience empowering learners through teaching, technical training, and scalable enablement.**
+
+*With more than 15 years of experience in teaching and technical enablement, I specialize in designing and scaling programs that help learners translate complex concepts into real-world skills. My background includes developing online courses, creating hands-on labs and certification programs, delivering webinars and workshops, and coaching both technical and non-technical audiences. I am passionate about building engaging, accessible learning experiences that empower people to get the most out of data.*
+
+
 &nbsp;
 
+**Monthly Webinar Host (EmpowerHour, Truveta)**: Lead recurring live sessions to train healthcare data scientists and analysts on deriving insights from EHR data and maximizing value from Truveta Studio.
 
-### Public Outreach
+![](/Users/emilywebber/Documents/website_2025/Website/image003.png)
 
-  In addition to my professional pubic speaking, I regularly do outreach events where I engage the community regarding science and professional development.  These include volunteering for STEM in the Park and Brain Awareness Week.  
-  
-&nbsp;
-&nbsp;
+**Workshop Leader (Truveta):** Deliver in-person and online workshops for customers, covering advanced technical concepts in EHR analytics. Recently led a 2-hour hands-on workshop at the Truveta Symposium (“Prose Grand Prix”) teaching effective use of Truveta’s proprietary programming language, Prose.
 
-While at OHSU, I volunteered to mentor Postdoctoral Fellows at the Oregon Health and Science University on alternative careers. 
+![](/Users/emilywebber/Documents/website_2025/Website/pgp2.jpg)
 
-[![](/Users/emilywebber/Dropbox/Website Dropbox 2/Website/SOM.JPG)]((https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/postdocs-outside-academia.cfm))
+**Enablement Study Author (Truveta)**: Designed and published an enablement study with end-to-end workflows in Python, R, and SQL, providing practical guidance for common EHR use cases.
 
+**Course Creator (Udemy)**: Built a structured onboarding and training program for new analysts, including replication studies, demo certifications, and applied projects.
 
+**Curriculum Developer & Instructor (DataRobot University)**: Created 50+ labs and recorded video sessions covering applied machine learning and AI for a global audience.
+
+![](/Users/emilywebber/Documents/website_2025/Website/DRU.png)
+
+**Media Appearance:** Demonstrated research techniques—including the effects of reward and play—by tickling rats on live television, making science accessible and engaging to the public.
+
+![](/Users/emilywebber/Documents/website_2025/Website/news.gif)
+
+**Invited Speaker**: Presented to postdoctoral scholars on alternative careers in science, sharing career development strategies and pathways beyond academia.
+
+![](/Users/emilywebber/Documents/website_2025/Website/SOM.JPG)
+
+**Graduate Teaching Assistant**: Taught and supported graduate-level coursework in research methods and statistics, mentoring students and leading technical instruction.
 
 
 

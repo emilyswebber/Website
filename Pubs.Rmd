@@ -12,78 +12,84 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-Monteleon, P., Ahern, R., Banerjee, S., Desai, K.R., Dadian-Dodoy, D., **Webber, E.**, Omidvar, S., Troy, P.,  Parikh, S.A.  (2023). Modern Treatment of Pulmonary Embolism (USCDT Versus MT): Results From a Real-World, Big Data Analysis (REAL-PE) . Journal of the Society for Cardiovascular Angiography & Interventions,  101192, ISSN 2772-9303. [Link](https://doi.org/10.1016/j.jscai.2023.101192)  
+- Rodriguez, P. J., Lusk, J. B., Mehta, H. B., Levy, J. F., Kalogeropoulos, A., Soneji, S., **Webber, E.**, Gluckman, T. J., & Stucky, N. L. (2025). GLP-1 receptor agonists vs alternatives for alcohol use disorder: A multi-target trial emulation. medRxiv. [Link](https://doi.org/10.1101/2025.06.07.25329184)
 
-Douglas, H.M., Halverstadt, B.A., Reinhart-Anex, P., **Webber, E.S.**, Cromwell, H.C. (2018). A possible social relative reward effect: Influence of outcome inequity between rats during operant responding. Behavioural Processes, 157, 459-469. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0376635717306162 )  
+- Monteleon, P., Ahern, R., Banerjee, S., Desai, K.R., Dadian-Dodoy, D., **Webber, E.**, Omidvar, S., Troy, P.,  Parikh, S.A.  (2023). Modern Treatment of Pulmonary Embolism (USCDT Versus MT): Results From a Real-World, Big Data Analysis (REAL-PE). Journal of the Society for Cardiovascular Angiography & Interventions, 101192, ISSN 2772-9303. [Link](https://doi.org/10.1016/j.jscai.2023.101192)  
 
-**Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. eNeuro,  3(5), 1-21.  [Link](https://pubmed.ncbi.nlm.nih.gov/27822506/) 
+- Douglas, H.M., Halverstadt, B.A., Reinhart-Anex, P., **Webber, E.S.**, Cromwell, H.C. (2018). A possible social relative reward effect: Influence of outcome inequity between rats during operant responding. Behavioural Processes, 157, 459-469. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0376635717306162)  
 
-Burnett, J.C., Li., C.,  **Webber, E.**, Tsaousidou, E., Li. C., Xue, S.U., Bruning, J.C., Krashes, M.J. (2016). Hunger-driven motivational state competition.  Neuron, 92(1), 187-201. [Link](https://pubmed.ncbi.nlm.nih.gov/27693254/)   
+- **Webber, E.S.**, Mankin, D., Cromwell, H.C. (2016). Striatal activity and reward relativity: Neural signals encoding dynamic outcome valuation. eNeuro, 3(5), 1-21. [Link](https://pubmed.ncbi.nlm.nih.gov/27822506/) 
 
-**Webber, E.S.**, Krashes, M.J., Bonci, A. (2015).  Elegance of energy balance: insight from circuit manipulations. Synapse, 69.9, 641-474. [Link](https://pubmed.ncbi.nlm.nih.gov/26126768/)  
+- Burnett, J.C., Li., C., **Webber, E.**, Tsaousidou, E., Li. C., Xue, S.U., Bruning, J.C., Krashes, M.J. (2016). Hunger-driven motivational state competition. Neuron, 92(1), 187-201. [Link](https://pubmed.ncbi.nlm.nih.gov/27693254/)   
 
-Garfield, A.S., Li, C., Madara, J.C., Shah, B.P., **Webber, E.**, Steger, J.S., Campbell, J.N., Gavrilova, O., Lee, C.E., Olson, D.P., Elmquist, J.K., Tannous, B.A., Krashes, M.J., Lowell, B.B. (2015). A neural basis for melanocortin-4 receptor regulated appetite. Nature Neuroscience,18(6), 863-871. [Link](https://pubmed.ncbi.nlm.nih.gov/25915476/ ) 
-&nbsp;
+- **Webber, E.S.**, Krashes, M.J., Bonci, A. (2015). Elegance of energy balance: insight from circuit manipulations. Synapse, 69(9), 641-474. [Link](https://pubmed.ncbi.nlm.nih.gov/26126768/)  
 
-**Webber, E.S.**, Chambers, N., Kostek, J., Mankin, D., Cromwell, H.C. (2015). Relative reward effects on operant behavior: incentive contrast, induction and variety effects.  Behavioral Processes, 116, 87-99. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458168/)
-&nbsp;
+- Garfield, A.S., Li, C., Madara, J.C., Shah, B.P., **Webber, E.**, Steger, J.S., Campbell, J.N., Gavrilova, O., Lee, C.E., Olson, D.P., Elmquist, J.K., Tannous, B.A., Krashes, M.J., Lowell, B.B. (2015). A neural basis for melanocortin-4 receptor regulated appetite. Nature Neuroscience, 18(6), 863-871. [Link](https://pubmed.ncbi.nlm.nih.gov/25915476/)  
 
-Denis, G.P.R., Joly-Amado, **Webber, E.S.**, A., Castel, J., Cansell, D., Delbes, A., Lacombe, A., Rouch, D., Kassis, N., Langlet, F., Dehouck, B., Fehrentz, J., Martinez, J., Verdie, P., Hnasko, T.S., Magnan, C., Krashes, M.J., Luquet, S.H. (2016).  Palatability drives feeding independent of AgRP neurons. Cell Metabolism, 22(4), 646-657. [Link](https://www.cell.com/cell-metabolism/pdf/S1550-4131(15)00340-X.pdf)
-&nbsp;
+- **Webber, E.S.**, Chambers, N., Kostek, J., Mankin, D., Cromwell, H.C. (2015). Relative reward effects on operant behavior: incentive contrast, induction and variety effects. Behavioral Processes, 116, 87-99. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458168/)  
 
-Binkley, K. A., **Webber, E. S.**, Powers, D. D., & and Cromwell, H. C. (2014). Emotion and relative reward processing: An investigation on instrumental successive negative contrast and ultrasonic vocalizations in the rat. Behavioral Processes, 107, 167-174. [Link](https://pubmed.ncbi.nlm.nih.gov/25150068/)
-&nbsp;
+- Denis, G.P.R., Joly-Amado, **Webber, E.S.**, A., Castel, J., Cansell, D., Delbes, A., Lacombe, A., Rouch, D., Kassis, N., Langlet, F., Dehouck, B., Fehrentz, J., Martinez, J., Verdie, P., Hnasko, T.S., Magnan, C., Krashes, M.J., Luquet, S.H. (2016). Palatability drives feeding independent of AgRP neurons. Cell Metabolism, 22(4), 646-657. [Link](https://www.cell.com/cell-metabolism/pdf/S1550-4131(15)00340-X.pdf)  
 
-**Webber, E.S.**, Mankin, D., McGraw, J., Beckwith, T.J., Cromwell, H.C. (2013). Ultrasonic vocalizations, predictability and sensorimotor gating in the rat. Behavioural Brain Research, 253, 32-41. [Link](https://pubmed.ncbi.nlm.nih.gov/25150068/)
-&nbsp;
+- Binkley, K. A., **Webber, E. S.**, Powers, D. D., & Cromwell, H. C. (2014). Emotion and relative reward processing: An investigation on instrumental successive negative contrast and ultrasonic vocalizations in the rat. Behavioral Processes, 107, 167-174. [Link](https://pubmed.ncbi.nlm.nih.gov/25150068/)  
 
-**Webber, E.S.**, Harmon, K.M., Beckwith, T.J., Pena, S., Burgdorf, J., Panksepp, J., Cromwell, H.C. (2012). Selective breeding for 50 kHz ultrasonic vocalization emission produces alterations in the ontogeny and regulation of rough-and-tumble play. Behavioural Brain Research, 229(1), 138-144. [Link](https://pubmed.ncbi.nlm.nih.gov/22266925/)
+- **Webber, E.S.**, Mankin, D., McGraw, J., Beckwith, T.J., Cromwell, H.C. (2013). Ultrasonic vocalizations, predictability and sensorimotor gating in the rat. Behavioural Brain Research, 253, 32-41. [Link](https://pubmed.ncbi.nlm.nih.gov/25150068/)  
 
-J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwell, R.J. Servatius, & K.C.H. Pang (2009). Wistar-Kyoto rats as an animal model of anxiety vulnerability: Support for a hyper-vigilance hypothesis. Behavioral Brain Research, 201(4), 162-168. [Link](https://pubmed.ncbi.nlm.nih.gov/22266925/)
+- **Webber, E.S.**, Harmon, K.M., Beckwith, T.J., Pena, S., Burgdorf, J., Panksepp, J., Cromwell, H.C. (2012). Selective breeding for 50 kHz ultrasonic vocalization emission produces alterations in the ontogeny and regulation of rough-and-tumble play. Behavioural Brain Research, 229(1), 138-144. [Link](https://pubmed.ncbi.nlm.nih.gov/22266925/)  
+
+- McAuley, J.D., Stewart, A.L., **Webber, E.S.**, Cromwell, H.C., Servatius, R.J., & Pang, K.C.H. (2009). Wistar-Kyoto rats as an animal model of anxiety vulnerability: Support for a hyper-vigilance hypothesis. Behavioral Brain Research, 201(4), 162-168. [Link](https://pubmed.ncbi.nlm.nih.gov/22266925/)
 
 
 &nbsp;
 
 ### Peer-Reviewed Abstracts
+
 &nbsp;
 
-Real World Experience of Contemporary Pulmonary Embolism Treatment (USCDT versus MT): Insights from Big Data Analytics (REAL-PE) (2023). Ahern R., Banerjee S., Desai K., Dadian-dodov D, **Webber E**., Omidvar S., Parikh S., TCT Conference
+- Jacob, R. P., Faucon, A., Blach, S., **Webber, E.**, & Chase, J. (2025, November). Real-world comparison of rapid PCR versus antigen testing for influenza-like illness in hospital emergency departments [Conference presentation abstract]. ISPOR Europe 2025, Glasgow, Scotland. *Value in Health, 28*(S2), CO51.  
 
-Garofalo D, Swan JT, **Webber E**, Omidivar S, Tawadrous M, Pixton G, Landi S, Aggarwal S, Alami N, Kelley SP. (2023) Natural History of RSV Infection in Outpatient Episodes Among Adults in the United States using an EHR Data Source by COVID-19 Era.  IDWEEK - 2626 
+- Guin, S., Brown, K., Gilbert, K., Wu, A., Faucon, A., Swartz, J., & **Webber, E.** (2025, November). Population characteristics of a large, linked mother-child EHR dataset from Truveta [Conference presentation abstract]. ISPOR Europe 2025, Glasgow, Scotland. *Value in Health, 28*(S2), EPH181.  
 
-Garofalo D, Toussi S., Kudela M, Reddy P, **Webber E**, Omidivar S, Schachterle SE, Banerjee A, Tawadrous M, Alami N, Kelley SP.  (2023). Natural History of RSV Infection in Outpatient Episodes Among Children in the United States using Two EHR Data Sources by COVID-19 Era.  IDWEEK – 2627 
+- Guin, S., Brown, K., Platt, S., Pastwa, A., & **Webber, E.** (2025, November). Leveraging NLP to characterize real-world triptan use and adherence from unstructured EHR [Conference presentation abstract]. ISPOR Europe 2025, Glasgow, Scotland. *Value in Health, 28*(S2), MSR137.  
 
-**E.S. Webber** & M.J. Krashes (2014). Melanocortin-4 receptor in satiety and hunger: Influence from limbic regions.  Program number 834.11/PP3 2014 Abstracts Viewer/Itinerary Planner, Washington DC, Society for Neuroscience 2014 CD-ROM
+- Guin, S., Brown, K., Sullivan, A., Kim, E., Tabatabaeepour, N., Gilbert, K., Swartz, J., Platt, S., & **Webber, E.** (2025, November). A hierarchical algorithm to identify pregnancy start and duration using structured EHR data [Conference presentation abstract]. ISPOR Europe 2025, Glasgow, Scotland. *Value in Health, 28*(S2), RWD2.  
 
+- Guin, S., Burkhardt, H., Blach, S., Kim, E., Platt, S., **Webber, E.**, Austin, A., & Omidvar, S. (2024, May). Descriptive statistics and disease prevalence from an electronic health record data collective across 30+ US health systems [Conference poster]. ISPOR Annual Conference, Atlanta, GA, United States.  
 
-**E.S. Webber**, Kostek, J., Mankin, D., K.A. Binkley, H.C. Cromwell (2012). The relative reward effect: Reward plasticity in the striatum. Program number 295.01/CCC44 2012 Abstracts Viewer/Itinerary Planner. New Orleans, LA: Society for Neuroscience 2012 CD-ROM
+- Garofalo, D. C., Kelly, S. P., **Webber, E.**, Platt, S., Omidvar, S., Landi, S. N., Banerjee, A., Alami, N. N., & Toussi, S. S. (2024). All-cause hospitalization after positive RSV laboratory test in the outpatient setting in children under 5 years in the United States. Global ReSViNET Conference on Novel RSV Preventive and Therapeutic Interventions.  
 
+- Iannacone, M., **Webber, E.**, Austin, A., Platt, S. M., Omidvar, S., Zhou, X., Kelly, S., Hendrick, V., Massouh, R., & Rubin, H. (2024, August). Concomitant prescribing of nirmatrelvir/ritonavir (NMV-r) and medications with potential risk for drug-drug interaction – A feasibility assessment of Truveta electronic health records database [Conference poster, Abstract 466]. ISPE Annual Conference, Berlin, Germany.  
 
-**E.S. Webber**, K.A. Binkley, H.C. Cromwelll (2012). The relative reward effect: A new behavioral paradigm to examine reward plasticity in the striatum. Bowling Green, OH: Bowling Green State University Charles E. Shanklin Research Colloquium 
+- Jugl, S., Gandhi, S., Wu, J., Joanne, M., Younus, M., **Webber, E.**, Hong, B., & Platt, S. (2024, August). Preliminary findings from a feasibility and capacity assessment of Truveta® Studio using flu vaccine as example: A near real-time electronic health records database with potential to monitor post-approval vaccine safety [Conference poster, Abstract 1124]. ISPE Annual Conference, Berlin, Germany.  
 
+- Kendrick, K., Omidvar, S., Platt, S., **Webber, E.**, Wyand, C., Mehta, R., … Caubel, P. (2023, October). Analysis of SARS-CoV-2 testing patterns post-PAXLOVID™ prescription orders and analysis of patients with multiple PAXLOVID prescription orders. *Pharmacoepidemiology and Drug Safety, 32*(S1), 267–268. Wiley.  
 
-**E.S. Webber**, K.A. Binkley, H.C. Cromwell (2011). The relative reward effect: A new behavioral paradigm to examine reward plasticity in the striatum. Program number 942.19/ZZ46 2011 Abstracts Viewer/Itinerary Planner. Washington D.C.: Society for Neuroscience 2011 CD-ROM
+- Ahern, R., Banerjee, S., Desai, K., Dadian-Dodov, D., **Webber, E.**, Omidvar, S., & Parikh, S. (2023, October). Real world experience of contemporary pulmonary embolism treatment (USCDT versus MT): Insights from big data analytics (REAL-PE) [Conference presentation]. TCT Conference, San Francisco, CA, United States.  
 
+- Garofalo, D., Swan, J. T., **Webber, E.**, Omidvar, S., Tawadrous, M., Pixton, G., Landi, S., Aggarwal, S., Alami, N., & Kelley, S. P. (2023). Natural history of RSV infection in outpatient episodes among adults in the United States using an EHR data source by COVID-19 era. *IDWeek*, Abstract 2626.  
 
-A. Binkley, **E.S. Webber**, J.R. Hagerman, H.C. Cromwell (2011). Relative reward effect: Do ultrasonic vocalizations reflect reward comparisons? Program number 941.13/ZZ26 2011 Abstracts Viewer/Itinerary Planner. Washington D.C.: Society for Neuroscience 2011 CD-ROM
+- Garofalo, D., Toussi, S., Kudela, M., Reddy, P., **Webber, E.**, Omidvar, S., Schachterle, S. E., Banerjee, A., Tawadrous, M., Alami, N., & Kelley, S. P. (2023). Natural history of RSV infection in outpatient episodes among children in the United States using two EHR data sources by COVID-19 era. *IDWeek*, Abstract 2627.  
 
+- **Webber, E. S.**, & Krashes, M. J. (2014). Melanocortin-4 receptor in satiety and hunger: Influence from limbic regions. Program number 834.11/PP3. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Washington, DC: Society for Neuroscience 2014 CD-ROM.  
 
-**E.S. Webber**, T.J. Beckwith, S.R. Pena & H.C. Cromwell (2010). Selective breeding for differential emission of 50 kHz ultrasonic vocalizations: An examination of social recognition and fear conditioning. Toledo, OH: Program number 28. 17th Annual University of Toledo/BGSU Symposium on Research
+- **Webber, E. S.**, Kostek, J., Mankin, D., Binkley, K. A., & Cromwell, H. C. (2012). The relative reward effect: Reward plasticity in the striatum. Program number 295.01/CCC44. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, New Orleans, LA: Society for Neuroscience 2012 CD-ROM.  
 
+- **Webber, E. S.**, Binkley, K. A., & Cromwell, H. C. (2012). The relative reward effect: A new behavioral paradigm to examine reward plasticity in the striatum. Bowling Green State University Charles E. Shanklin Research Colloquium, Bowling Green, OH.  
 
-H.C. Cromwell, D.E. Mankin. **E.S. Webber** (2009). Ultrasonic Vocalizations during prepulse inhibition: Effects of expectancies.  Program number 195.18/FF48 2009 Abstracts Viewer/Itinerary Planner. Chicago, IL: Society for Neuroscience, 2009 CD-ROM
+- **Webber, E. S.**, Binkley, K. A., & Cromwell, H. C. (2011). The relative reward effect: A new behavioral paradigm to examine reward plasticity in the striatum. Program number 942.19/ZZ46. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Washington, DC: Society for Neuroscience 2011 CD-ROM.  
 
+- Binkley, A., **Webber, E. S.**, Hagerman, J. R., & Cromwell, H. C. (2011). Relative reward effect: Do ultrasonic vocalizations reflect reward comparisons? Program number 941.13/ZZ26. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Washington, DC: Society for Neuroscience 2011 CD-ROM.  
 
-**E.S. Webber**, T.J. Beckwith, S.R. Pena & H.C. Cromwell (2009). Selective breeding for differential emission of 50 kHz ultrasonic vocalizations: An examination of social recognition and fear conditioning. Program number 191.16 EE79 Abstracts Viewer/Itinerary Planner. Chicago, IL: Society for Neuroscience, 2009 CD-ROM
+- **Webber, E. S.**, Beckwith, T. J., Pena, S. R., & Cromwell, H. C. (2010). Selective breeding for differential emission of 50 kHz ultrasonic vocalizations: An examination of social recognition and fear conditioning. 17th Annual University of Toledo/BGSU Symposium on Research, Toledo, OH. Program number 28.  
 
+- Cromwell, H. C., Mankin, D. E., & **Webber, E. S.** (2009). Ultrasonic vocalizations during prepulse inhibition: Effects of expectancies. Program number 195.18/FF48. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Chicago, IL: Society for Neuroscience 2009 CD-ROM.  
 
-J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwel, R. Servatius, & K.C.H. Pang (2008). Wistar-Kyoto rats demonstrate enhanced startle, sensorimotor gating and distractibility: Support for a hyper-vigilance model of vulnerability to anxiety. Program Number 196.3 2008 Abstracts Viewer/Itinerary Planner. Washington, DC: Society for Neuroscience, 2008. CD-ROM
+- **Webber, E. S.**, Beckwith, T. J., Pena, S. R., & Cromwell, H. C. (2009). Selective breeding for differential emission of 50 kHz ultrasonic vocalizations: An examination of social recognition and fear conditioning. Program number 191.16/EE79. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Chicago, IL: Society for Neuroscience 2009 CD-ROM.  
 
+- McAuley, J. D., Stewart, A. L., **Webber, E. S.**, Cromwell, H. C., Servatius, R., & Pang, K. C. H. (2008). Wistar-Kyoto rats demonstrate enhanced startle, sensorimotor gating and distractibility: Support for a hyper-vigilance model of vulnerability to anxiety. Program number 196.3. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Washington, DC: Society for Neuroscience 2008 CD-ROM.  
 
-**E.S. Webber**, T.J. Beckwith, H.C. Cromwell (2008). Prepulse inhibition in rats selectively bred for differential ultrasonic vocalization emission. Program number 883.11 2008 Abstracts Viewer/Itinerary Planner. Washington DC: Society for Neuroscience, 2008 CD-ROM
+- **Webber, E. S.**, Beckwith, T. J., & Cromwell, H. C. (2008). Prepulse inhibition in rats selectively bred for differential ultrasonic vocalization emission. Program number 883.11. *Society for Neuroscience Abstracts Viewer/Itinerary Planner*, Washington, DC: Society for Neuroscience 2008 CD-ROM.  
 
-
-**E.S. Webber**, T.J. Beckwith, H.C. Cromwell (2008). Prepulse inhibition in rats selectively bred for differential ultrasonic vocalization emission. Toledo, OH: University of Toledo/BGSU 17th Annual Symposium
+- **Webber, E. S.**, Beckwith, T. J., & Cromwell, H. C. (2008). Prepulse inhibition in rats selectively bred for differential ultrasonic vocalization emission. 17th Annual University of Toledo/BGSU Symposium on Research, Toledo, OH.  
 
 &nbsp;
 
@@ -91,7 +97,7 @@ J.D. McAuley, A.L. Stewart, **E.S. Webber**, H.C. Cromwel, R. Servatius, & K.C.H
 
 &nbsp;
 
-The International Journal of Neuropsychopharmacology 
+- The International Journal of Neuropsychopharmacology 
 
 &nbsp;
 &nbsp;

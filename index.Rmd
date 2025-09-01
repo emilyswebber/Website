@@ -2,29 +2,61 @@
 title: ""
 ---
 
-&nbsp;
-&nbsp;
+<img src="/Users/emilywebber/Documents/website_2025/Website/interview.png" style="display: inline-block; margin: 0" />
 
-## Emily S. Webber, Ph.D.
+### Emily S. Webber, Ph.D.
+
 
 ---
-**Senior Data Scientist** 
+
+**Team Leadership & Development** – Proven ability to build, scale, and mentor high-performing analytics teams.
+
+*Built and scaled a matrixed analytics team including the hiring and training of one co-director and 10+ analysts.  This team scaled from serving 2 to 65+ customers in 3 years.*
+
 &nbsp;
 
-Builder of custom machine learning and analytic solutions.
+**Data Science & Advanced Analytics** – Expertise in statistical modeling, machine learning, predictive analytics, and real-world data (RWD) methodologies.
+
+*Experience building real world solutions using data science and analytics across industry verticals.* 
+
 &nbsp;
 
-Interdisciplinary background in data science, biomedical research, industry and non-profits. 
+**Healthcare & Life Sciences Research** – Deep experience applying EHR data and RWD to clinical, regulatory, and commercial studies.
+
+*Published several papers (in press) and 10+ conference abstracts using EHR data to answer some of healthcares most pressing questions.* 
+
 &nbsp;
 
-Experience with fast paced start-ups, ambiguous challenges, and complex technical landscapes. 
+**Communication & Training** – Published researcher and conference presenter; creator of training programs, webinars, online courses and other educational content for data sciencen and technical platform adoption.
+
+*See "Workshops & Outreach" for more detalis!*
+
 &nbsp;
 
-Passionate about mission based work.
+**Client & Stakeholder Engagement** – Skilled at enabling clients to use complex data at scale, from custom analyses to enterprise solutions.
+
+*Designed, built and scaled research programming using Truveta EHR data to serve some of the worlds largest life science customers.*
+
 &nbsp;
 
+**Cross-Functional Collaboration** – Strong track record partnering with Product, Engineering, and Customer Success to drive strategic decisions.
 
-![](/Users/emilywebber/Dropbox/website_2023/Website/interview.png)
+*Created an internal, company wide meeting called "Code & Tell" to showcase the work of individual contributors and share end user experience with technical and business leaders across departments.*
+
+&nbsp;
+
+**Strategic Planning & Execution** – Experienced in aligning analytics programs with organizational objectives to deliver measurable impact.
+
+*Built a custom in-house analytics report combining data from Salesforce, Billing, and Platform usage to provide unifying intelligence into the customer experience used in a monthly "Customer Health Score".* 
+
+
+&nbsp;
+
+**Technical Expertise** – Hands-on experience with many programming languages and platforms. 
+
+*Python, R, SQL, Spark, Databricks, SPSS, DataRobot, Truveta Studio.*
+
+
 
 
 
