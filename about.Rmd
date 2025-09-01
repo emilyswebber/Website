@@ -44,7 +44,7 @@ While at the NIH, I realized that my favorite part of research was working with 
 Switching fields was daunting, but I soon found an exciting role as **Assistant Director of Analytics** at the OHSU Foundation. The Foundation was just beginning to apply analytics to philanthropy and needed someone with statistical and modeling expertise to build out the program. I embraced the challenge and helped raise funds for biomedical research. This included supporting work that aimed to end cancer, HIV/AIDS, blindness, and neurodegenerative diseases.
 
 &nbsp;
-![](/Users/emilywebber/Documents/website_2025/Website/DR.jpg) =
+![](/Users/emilywebber/Documents/website_2025/Website/DR.jpg)
 &nbsp;
 
 This experience showed me the transformational potential of machine learning. I wanted to dedicate my career to helping others use these tools for impact, which led me to **DataRobot**, an automated machine learning platform designed to **make advanced ML accessible**.
