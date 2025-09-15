@@ -28,7 +28,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Enablement Study Author (Truveta)**: Designed and published an enablement study with end-to-end workflows in Python, R, and SQL, providing practical guidance for common EHR use cases.
 
+![](/Users/emilywebber/Documents/website_2025/Website/enablement.png)
+
 **Course Creator (Udemy)**: Built a structured onboarding and training program for new analysts, including replication studies, demo certifications, and applied projects.
+
+![](/Users/emilywebber/Documents/website_2025/Website/udemy.png)
 
 **Curriculum Developer & Instructor (DataRobot University)**: Created 50+ labs and recorded video sessions covering applied machine learning and AI for a global audience.
 
