@@ -11,12 +11,33 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
+
+
+
+<p>
+  <img src="/Users/emilywebber/Documents/website_2025/Website/Emily_close.jpg"
+       style="float: left; margin-right: 15px; width: 220px; height: auto;" />
+
+&nbsp;
+
 #### **15+ years of experience empowering learners through teaching, technical training, and scalable enablement.**
 
+&nbsp;
+
 *With more than 15 years of experience in teaching and technical enablement, I specialize in designing and scaling programs that help learners translate complex concepts into real-world skills. My background includes developing online courses, creating hands-on labs and certification programs, delivering webinars and workshops, and coaching both technical and non-technical audiences. I am passionate about building engaging, accessible learning experiences that empower people to get the most out of data.*
+</p>
+
+
 
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
 
 **Monthly Webinar Host (EmpowerHour, Truveta)**: Lead recurring live sessions to train healthcare data scientists and analysts on deriving insights from EHR data and maximizing value from Truveta Studio.
 

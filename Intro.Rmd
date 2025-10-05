@@ -34,7 +34,10 @@ c <- as.data.table(c)
 &nbsp;
 
 
-<img src="/Users/emilywebber/Documents/website_2025/Website/interview.png" style="display: inline-block; margin: 0" />
+<div style="text-align: center;">
+  <img src="/Users/emilywebber/Documents/website_2025/Website/Emily_window.jpg" style="display: inline-block; margin: 0;" />
+</div>
+
 
 ### Emily S. Webber, Ph.D.
 
