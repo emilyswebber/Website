@@ -6,59 +6,51 @@ title: ""
   <img src="/Users/emilywebber/Documents/website_2025/Website/Emily_window.jpg" style="display: inline-block; margin: 0;" />
 </div>
 
-### Emily S. Webber, Ph.D.
+**Leadership & Team Development** – Building and scaling high-performing analytics organizations.
 
-
----
-
-**Team Leadership & Development** – Proven ability to build, scale, and mentor high-performing analytics teams.
-
-*Built and scaled a matrixed analytics team including the hiring and training of one co-director and 10+ analysts.  This team scaled from serving 2 to 65+ customers in 3 years.*
+*Built and scaled a matrixed analytics organization by hiring and mentoring a co-director and more than 10 analysts. Expanded the team from supporting 2 customers to more than 65 customers and $70M+ in ARR in just three years while fostering a culture of technical excellence and continuous learning.*
 
 &nbsp;
 
-**Data Science & Advanced Analytics** – Expertise in statistical modeling, machine learning, predictive analytics, and real-world data (RWD) methodologies.
+**Data Science & Advanced Analytics** – Applying machine learning, predictive analytics, and statistical methodologies to solve complex healthcare challenges.
 
-*Experience building real world solutions using data science and analytics across industry verticals.* 
-
-&nbsp;
-
-**Healthcare & Life Sciences Research** – Deep experience applying EHR data and RWD to clinical, regulatory, and commercial studies.
-
-*Published several papers (in press) and 10+ conference abstracts using EHR data to answer some of healthcares most pressing questions.* 
+*Design scalable analytics frameworks, predictive models, and data products that transform real-world healthcare data into actionable insights across healthcare, life sciences, and technology.*
 
 &nbsp;
 
-**Communication & Training** – Published researcher and conference presenter; creator of training programs, webinars, online courses and other educational content for data sciencen and technical platform adoption.
+**Healthcare & Life Sciences Research** – Advancing evidence generation using electronic health record data and real-world evidence.
 
-*See "Workshops & Outreach" for more detalis!*
-
-&nbsp;
-
-**Client & Stakeholder Engagement** – Skilled at enabling clients to use complex data at scale, from custom analyses to enterprise solutions.
-
-*Designed, built and scaled research programming using Truveta EHR data to serve some of the worlds largest life science customers.*
+*Author of multiple peer-reviewed publications and more than 10 scientific conference abstracts using EHR data to address clinically meaningful questions in cardiovascular disease, pulmonary embolism, GLP-1 therapies, and other real-world evidence applications.*
 
 &nbsp;
 
-**Cross-Functional Collaboration** – Strong track record partnering with Product, Engineering, and Customer Success to drive strategic decisions.
+**Communication & Enablement** – Making advanced analytics accessible through education and technical enablement.
 
-*Created an internal, company wide meeting called "Code & Tell" to showcase the work of individual contributors and share end user experience with technical and business leaders across departments.*
-
-&nbsp;
-
-**Strategic Planning & Execution** – Experienced in aligning analytics programs with organizational objectives to deliver measurable impact.
-
-*Built a custom in-house analytics report combining data from Salesforce, Billing, and Platform usage to provide unifying intelligence into the customer experience used in a monthly "Customer Health Score".* 
-
+*Developed researcher training programs, webinars, workshops, and technical content that have helped hundreds of researchers adopt advanced analytics platforms and best practices. Visit **Workshops & Outreach** to learn more.*
 
 &nbsp;
 
-**Technical Expertise** – Hands-on experience with many programming languages and platforms. 
+**Customer Strategy & Analytics Enablement** – Helping healthcare and life sciences organizations unlock value from complex data.
 
-*Python, R, SQL, Spark, Databricks, SPSS, DataRobot, Truveta Studio.*
+*Designed and scaled enterprise analytics programs supporting many of the world's leading pharmaceutical and healthcare organizations, enabling customers to conduct research efficiently and at scale using Truveta's EHR platform.*
 
+&nbsp;
 
+**Cross-Functional Leadership** – Bridging technical and business teams to accelerate innovation.
+
+*Partner closely with Product, Engineering, Commercial, and Customer Success teams to translate customer needs into platform capabilities. Founded the company-wide **Code & Tell** forum to promote technical knowledge sharing and customer-driven product development.*
+
+&nbsp;
+
+**Strategy & Business Impact** – Connecting analytics investments to measurable business outcomes.
+
+*Designed executive reporting and customer intelligence solutions integrating Salesforce, billing, platform usage, and operational data into a unified customer health framework that supports strategic planning and operational decision-making.*
+
+&nbsp;
+
+**Technical Expertise** – Programming languages, analytics platforms, and healthcare technologies.
+
+*Python • R • SQL • Spark • Databricks • SPSS • DataRobot • Truveta Studio*
 
 
 
